@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+9,"leaf-malf = '0', leafspot-size = '1', mold-growth = '0', plant-growth = '0', stem = '0'",0.09676495241328821,40,39,40,267
+8,"hail = '0', leaf-malf = '0', leafspot-size = '1', mold-growth = '0', stem = '0'",0.09562966185317615,39,35,40,267
+7,"hail = '0', leafspot-size = '1', mold-growth = '0', plant-growth = '0', stem = '0'",0.09520525416715298,39,36,40,267
+5,"hail = '0', leaf-malf = '0', leafspots-halo = '2', plant-growth = '0', stem = '0'",0.09435643879510656,39,38,40,267
+6,"canker-lesion = '0', hail = '0', leaf-malf = '0', leafspots-halo = '2', plant-growth = '0'",0.09435643879510656,39,38,40,267
+4,"hail = '0', leaf-malf = '0', leafspot-size = '1', plant-growth = '0', stem = '0'",0.09393203110908338,39,39,40,267
+3,"hail = '0', leaf-malf = '0', leaf-mild = '0', plant-growth = '0', stem = '0'",0.09180999267896742,39,44,40,267
+2,"hail = '0', leafspot-size = '1', mold-growth = '0', precip = '2', stem = '0'",0.08967734405670087,36,29,40,267
+1,"canker-lesion = '0', hail = '0', leaf-malf = '0', leaf-mild = '0', plant-growth = '0'",0.0867171004466891,39,56,40,267
+0,"hail = '0', leaf-malf = '0', plant-growth = '0', seed = '0', stem = '0'",0.08643062525862344,38,50,40,267

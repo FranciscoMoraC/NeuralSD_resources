@@ -1,0 +1,2 @@
+Label 	 Pattern 	 Pattern_num 	 P(class|pattern) 	 Supp in class 	 Supp in data 
+1	['Attribute 6']	[np.int64(5)]	100.0	25.0	14.2857

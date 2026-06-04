@@ -1,0 +1,5 @@
+/data/*csv
+MCTS4DM/datasets
+rrl/dataset
+dssdSrc/data/datasets
+__pycache__/*

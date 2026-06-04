@@ -1,0 +1,4 @@
+Time to fit: 5041.771072149277
+Total covered instances:  0.6428571428571429
+Target covered instances:  1.0
+Negative target covered instances:  0.16666666666666666

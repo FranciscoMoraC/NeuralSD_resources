@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+9,"Medication_Keeps_Patient_from_Sleeping = '0', Prescription_Sleep_Medication = '3', Stress_Keeps_Patient_from_Sleeping = '0'",0.020708283313325346,99,360,131,583
+8,"Medication_Keeps_Patient_from_Sleeping = '0', Pain_Keeps_Patient_from_Sleeping = '0', Prescription_Sleep_Medication = '3'",0.017689428712661534,104,394,131,583
+7,"Medication_Keeps_Patient_from_Sleeping = '0', Pain_Keeps_Patient_from_Sleeping = '0', Prescription_Sleep_Medication = '3', Stress_Keeps_Patient_from_Sleeping = '0'",0.017687467143720235,84,305,131,583
+6,"Gender = '2', Medication_Keeps_Patient_from_Sleeping = '0', Pain_Keeps_Patient_from_Sleeping = '0', Prescription_Sleep_Medication = '3'",0.017055841944620995,63,214,131,583
+5,"Medication_Keeps_Patient_from_Sleeping = '0', Prescription_Sleep_Medication = '3'",0.01654779558882379,123,483,131,583
+4,"Gender = '2', Medication_Keeps_Patient_from_Sleeping = '0', Prescription_Sleep_Medication = '3'",0.01615744336950467,73,262,131,583
+3,"Prescription_Sleep_Medication = '3', Stress_Keeps_Patient_from_Sleeping = '0'",0.015684705254650894,100,384,131,583
+2,"Medication_Keeps_Patient_from_Sleeping = '0', Pain_Keeps_Patient_from_Sleeping = '0', Stress_Keeps_Patient_from_Sleeping = '0'",0.015580742100761883,88,331,131,583
+1,"Gender = '2', Medication_Keeps_Patient_from_Sleeping = '0', Prescription_Sleep_Medication = '3', Stress_Keeps_Patient_from_Sleeping = '0'",0.0155003177741685,54,180,131,583
+0,"Medication_Keeps_Patient_from_Sleeping = '0', Stress_Keeps_Patient_from_Sleeping = '0'",0.01486280786824535,104,405,131,583

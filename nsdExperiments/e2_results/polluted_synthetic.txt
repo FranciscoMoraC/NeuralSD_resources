@@ -1,0 +1,5 @@
+Time taken: 135.3655812740326
+Youden's J statistic: 0.7277631765031435
+# Subgroups: 3
+Average subgroup description length: 1.6666666666666667
+Max Jaccard similarity between subgroups: 0

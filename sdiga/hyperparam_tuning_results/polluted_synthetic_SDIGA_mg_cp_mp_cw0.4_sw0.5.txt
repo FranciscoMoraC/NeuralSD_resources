@@ -1,0 +1,7 @@
+Total covered instances train:  0.0019642857142857144
+Target covered instances train:  0.0038181187087816732
+Negative target covered instances train:  0.0
+Total covered instances test:  0.0014285714285714286
+Target covered instances test:  0.002777777777777778
+Negative target covered instances test:  0.0
+Selected subgroups:  1

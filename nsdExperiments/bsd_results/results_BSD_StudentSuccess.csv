@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+9,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.08171552750246071,1473,753,2209,2215
+8,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.08105917419042602,1541,827,2209,2215
+7,"Curricular_units_1st_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.08104599194268317,1498,784,2209,2215
+6,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.08060188303810546,1522,812,2209,2215
+5,"Curricular_units_1st_sem_(without_evaluations) = '0', Debtor = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.0804758341808122,1479,770,2209,2215
+4,"Curricular_units_1st_sem_(without_evaluations) = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.08038994519454956,1567,859,2209,2215
+3,"Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07992284399739708,1516,812,2209,2215
+2,"Curricular_units_1st_sem_(without_evaluations) = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07981948086877758,1547,844,2209,2215
+1,"Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07957872601852788,1498,797,2209,2215
+0,"Curricular_units_1st_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07934287619069419,1465,766,2209,2215

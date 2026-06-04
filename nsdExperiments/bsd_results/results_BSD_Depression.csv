@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+9,Have_you_ever_had_suicidal_thoughts_ = 'Yes',0.11649815082300279,189,71,252,250
+8,Academic_Pressure = '5.0',0.06734020094919128,83,15,252,250
+7,"Family_History_of_Mental_Illness = 'Yes', Have_you_ever_had_suicidal_thoughts_ = 'Yes'",0.06724496436564499,95,27,252,250
+6,"Gender = 'Male', Have_you_ever_had_suicidal_thoughts_ = 'Yes'",0.062173616291804894,104,41,252,250
+5,"Dietary_Habits = 'Unhealthy', Have_you_ever_had_suicidal_thoughts_ = 'Yes'",0.056395930223329796,76,19,252,250
+4,"Gender = 'Female', Have_you_ever_had_suicidal_thoughts_ = 'Yes'",0.054324534531197906,85,30,252,250
+3,"Family_History_of_Mental_Illness = 'No', Have_you_ever_had_suicidal_thoughts_ = 'Yes'",0.04925318645735782,94,44,252,250
+2,"Academic_Pressure = '5.0', Have_you_ever_had_suicidal_thoughts_ = 'Yes'",0.046610371263948194,49,2,252,250
+1,"Financial_Stress = '5', Have_you_ever_had_suicidal_thoughts_ = 'Yes'",0.042618371136966086,48,5,252,250
+0,Dietary_Habits = 'Unhealthy',0.04215806098315899,106,63,252,250

@@ -1,0 +1,28 @@
+=== Parameters ===
+QualitiesFiles : datasets/polluted_synthetic/qualities_train.csv
+PropertiesFiles : datasets/polluted_synthetic/properties_train.csv
+attrType : NOMINAL
+resFolder : pollutedSynthetic_jaccardSupportDescription_0.4_100000_RelativeF1
+minSupp : 10
+nbLoops : 100000
+maxOutput : 50
+maxRedundancy : 0.4
+maxLength : 5
+measure : RelativeF1
+UCB : UCBSP
+refineExpand : TunedGenerator
+duplicatesExpand : AMAF
+pathLength : -1
+refineRollOut : Large
+jumpingLarge : 10
+rewardPolicy : MaxPath
+memoryPolicy : TopK
+topKMemory : 1
+updatePolicy : Max
+
+=== Result Information ===
+date : 21/10/2025 08:53
+runtime(ms) : 110539
+nbPatterns : 50
+measures : 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+descriptionLength : 1 4 2 4 2 2 2 2 2 2 2 2 2 2 2 3 2 2 2 2 2 2 4 2 2 2 3 2 2 2 2 2 2 2 2 2 2 2 4 3 2 2 2 2 2 2 2 2 2 2

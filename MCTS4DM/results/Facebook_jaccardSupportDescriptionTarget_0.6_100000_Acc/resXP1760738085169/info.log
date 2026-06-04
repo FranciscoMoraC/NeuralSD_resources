@@ -1,0 +1,28 @@
+=== Parameters ===
+QualitiesFiles : datasets/Facebook/qualities_train.csv
+PropertiesFiles : datasets/Facebook/properties_train.csv
+attrType : BOOLEAN
+resFolder : Facebook_jaccardSupportDescriptionTarget_0.6_100000_Acc
+minSupp : 10
+nbLoops : 100000
+maxOutput : 50
+maxRedundancy : 0.6
+maxLength : 5
+measure : Acc
+UCB : UCBSP
+refineExpand : TunedGenerator
+duplicatesExpand : AMAF
+pathLength : -1
+refineRollOut : Large
+jumpingLarge : 10
+rewardPolicy : MaxPath
+memoryPolicy : TopK
+topKMemory : 1
+updatePolicy : Max
+
+=== Result Information ===
+date : 18/10/2025 05:41
+runtime(ms) : 20805211
+nbPatterns : 50
+measures : 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+descriptionLength : 1 1 1 1 1 1 1 2 3 4 4 4 4 3 4 2 3 2 3 3 3 2 2 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 4 3 3 2 4 1 2 2 3 4

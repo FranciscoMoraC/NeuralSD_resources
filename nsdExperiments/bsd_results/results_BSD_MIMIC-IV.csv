@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+9,ab_name = 'ERYTHROMYCIN',0.043172553119638496,7963,5523,26527,80485
+8,"ab_name = 'ERYTHROMYCIN', treatment_last_180_days = 'False'",0.042576122489866745,7861,5471,26527,80485
+7,"ab_name = 'ERYTHROMYCIN', language = 'English'",0.04031451642209256,7382,4994,26527,80485
+6,"ab_name = 'ERYTHROMYCIN', language = 'English', treatment_last_180_days = 'False'",0.039753385150008494,7287,4948,26527,80485
+5,"ab_name = 'ERYTHROMYCIN', exitus = 'f'",0.0382604903966417,7097,5016,26527,80485
+4,"ab_name = 'ERYTHROMYCIN', exitus = 'f', treatment_last_180_days = 'False'",0.03784463686984807,7023,4971,26527,80485
+3,"ab_name = 'ERYTHROMYCIN', exitus = 'f', language = 'English'",0.035867978938343724,6603,4550,26527,80485
+2,"ab_name = 'ERYTHROMYCIN', exitus = 'f', language = 'English', treatment_last_180_days = 'False'",0.0354756846303931,6534,4510,26527,80485
+1,"ab_name = 'ERYTHROMYCIN', race = 'WHITE'",0.030153116818408723,5427,3449,26527,80485
+0,"ab_name = 'ERYTHROMYCIN', race = 'WHITE', treatment_last_180_days = 'False'",0.029838212697448716,5370,3412,26527,80485

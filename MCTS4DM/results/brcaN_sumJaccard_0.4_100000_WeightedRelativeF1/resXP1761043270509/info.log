@@ -1,0 +1,28 @@
+=== Parameters ===
+QualitiesFiles : datasets/brca_n/qualities_train.csv
+PropertiesFiles : datasets/brca_n/properties_train.csv
+attrType : NOMINAL
+resFolder : brcaN_sumJaccard_0.4_100000_WeightedRelativeF1
+minSupp : 10
+nbLoops : 100000
+maxOutput : 50
+maxRedundancy : 0.4
+maxLength : 5
+measure : WeightedRelativeF1
+UCB : UCBSP
+refineExpand : TunedGenerator
+duplicatesExpand : AMAF
+pathLength : -1
+refineRollOut : Large
+jumpingLarge : 10
+rewardPolicy : MaxPath
+memoryPolicy : TopK
+topKMemory : 1
+updatePolicy : Max
+
+=== Result Information ===
+date : 21/10/2025 12:46
+runtime(ms) : 304625
+nbPatterns : 50
+measures : 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+descriptionLength : 1 2 2 2 2 2 2 3 2 2 2 2 2 2 2 2 5 2 2 5 5 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 2 2 3 3 2

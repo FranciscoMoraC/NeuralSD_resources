@@ -1,0 +1,28 @@
+=== Parameters ===
+QualitiesFiles : datasets/Facebook/qualities_train.csv
+PropertiesFiles : datasets/Facebook/properties_train.csv
+attrType : BOOLEAN
+resFolder : Facebook_sumJaccard_0.4_1000_RelativeF1
+minSupp : 10
+nbLoops : 1000
+maxOutput : 50
+maxRedundancy : 0.4
+maxLength : 5
+measure : RelativeF1
+UCB : UCBSP
+refineExpand : TunedGenerator
+duplicatesExpand : AMAF
+pathLength : -1
+refineRollOut : Large
+jumpingLarge : 10
+rewardPolicy : MaxPath
+memoryPolicy : TopK
+topKMemory : 1
+updatePolicy : Max
+
+=== Result Information ===
+date : 18/10/2025 12:43
+runtime(ms) : 8453
+nbPatterns : 1
+measures : 0.00
+descriptionLength : 1

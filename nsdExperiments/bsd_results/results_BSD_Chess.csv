@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+9,"bxqsq = 'f', hdchk = 'f', spcop = 'f', wkna8 = 'f', wknck = 'f'",0.15724109924639842,1195,131,1669,1527
+8,"bxqsq = 'f', hdchk = 'f', skach = 'f', wkna8 = 'f', wknck = 'f'",0.15694211005308575,1193,131,1669,1527
+7,"bxqsq = 'f', hdchk = 'f', mulch = 'f', wkna8 = 'f', wknck = 'f'",0.15589564787649143,1186,131,1669,1527
+6,"bxqsq = 'f', skach = 'f', spcop = 'f', wkna8 = 'f', wknck = 'f'",0.15579833443243354,1193,138,1669,1527
+5,"bxqsq = 'f', mulch = 'f', spcop = 'f', wkna8 = 'f', wknck = 'f'",0.15540545832478328,1186,134,1669,1527
+4,"bxqsq = 'f', mulch = 'f', skach = 'f', wkna8 = 'f', wknck = 'f'",0.15510646913147066,1184,134,1669,1527
+3,"bxqsq = 'f', hdchk = 'f', reskd = 'f', wkna8 = 'f', wknck = 'f'",0.15469969110324075,1178,131,1669,1527
+2,"bxqsq = 'f', hdchk = 'f', rxmsq = 'f', wkna8 = 'f', wknck = 'f'",0.15454657417516576,1142,99,1669,1527
+1,"bxqsq = 'f', reskd = 'f', spcop = 'f', wkna8 = 'f', wknck = 'f'",0.1535559154825885,1178,138,1669,1527
+0,"bxqsq = 'f', rxmsq = 'f', spcop = 'f', wkna8 = 'f', wknck = 'f'",0.15340279855451353,1142,106,1669,1527

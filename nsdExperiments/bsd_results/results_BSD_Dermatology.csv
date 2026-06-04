@@ -1,0 +1,11 @@
+,Description,Quality,tp,fp,TP,FP
+9,"fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', polygonal_papules = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",0.2081877631461077,112,5,112,254
+7,"eosinophils_infiltrate = '0', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",0.20333542357191914,109,4,112,254
+8,"eosinophils_infiltrate = '0', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",0.20333542357191914,109,4,112,254
+6,"eosinophils_infiltrate = '0', fibrosis_papillary_dermis = '0', polygonal_papules = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",0.19915494640031056,109,9,112,254
+5,"band_like_infiltrate = '0', eosinophils_infiltrate = '0', fibrosis_papillary_dermis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",0.19619875182895877,107,8,112,254
+4,"exocytosis = '0', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",0.17634148526381796,93,0,112,254
+3,"eosinophils_infiltrate = '0', follicular_papules = '0', polygonal_papules = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",0.17423631640240075,106,32,112,254
+2,"eosinophils_infiltrate = '0', perifollicular_parakeratosis = '0', polygonal_papules = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",0.17323598793633732,109,40,112,254
+1,"band_like_infiltrate = '0', eosinophils_infiltrate = '0', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",0.17027979336498553,107,39,112,254
+0,"definite_borders = '2', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",0.13841858520708292,73,0,112,254

@@ -1,0 +1,28 @@
+=== Parameters ===
+QualitiesFiles : datasets/synthetic/qualities.csv
+PropertiesFiles : datasets/synthetic/properties.csv
+attrType : NOMINAL
+resFolder : synthetic
+minSupp : 10
+nbLoops : 100000
+maxOutput : 50
+maxRedundancy : 0.4
+maxLength : 5
+measure : WRAcc
+UCB : UCBSP
+refineExpand : TunedGenerator
+duplicatesExpand : AMAF
+pathLength : -1
+refineRollOut : Large
+jumpingLarge : 10
+rewardPolicy : MaxPath
+memoryPolicy : TopK
+topKMemory : 1
+updatePolicy : Max
+
+=== Result Information ===
+date : 22/10/2025 09:47
+runtime(ms) : 143960
+nbPatterns : 50
+measures : 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+descriptionLength : 1 2 2 2 3 2 2 2 2 2 2 2 2 2 2 3 2 2 2 2 2 2 4 2 2 2 2 2 3 2 2 2 2 2 2 2 2 4 2 2 2 2 2 3 2 3 2 2 2 2

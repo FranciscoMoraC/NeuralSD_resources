@@ -1,0 +1,28 @@
+=== Parameters ===
+QualitiesFiles : datasets/brca_n/qualities.csv
+PropertiesFiles : datasets/brca_n/properties.csv
+attrType : NOMINAL
+resFolder : brcaN
+minSupp : 10
+nbLoops : 1000
+maxOutput : 50
+maxRedundancy : 0.4
+maxLength : 5
+measure : WRAcc
+UCB : UCBSP
+refineExpand : TunedGenerator
+duplicatesExpand : AMAF
+pathLength : -1
+refineRollOut : Large
+jumpingLarge : 10
+rewardPolicy : MaxPath
+memoryPolicy : TopK
+topKMemory : 1
+updatePolicy : Max
+
+=== Result Information ===
+date : 22/10/2025 10:09
+runtime(ms) : 1411
+nbPatterns : 50
+measures : 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+descriptionLength : 1 1 5 1 3 1 1 1 1 1 1 1 1 1 4 1 1 1 1 1 1 1 1 1 4 1 1 3 3 3 1 4 1 5 1 5 1 2 1 1 1 2 1 4 4 5 3 1 5 1

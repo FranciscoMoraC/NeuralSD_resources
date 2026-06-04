@@ -1,0 +1,2 @@
+Description: [col_447 = '4', col_90 = '1', col_959 = '3', col_976 = '1'], Target: Target = '1' ; Quality Measure Fitness = 0.42914285714285716 ; tp = 7 ; fp = 0 ; TP = 3601 ; FP = 3399 ; unchecked_tp = 7 ; unchecked_fp = 0 ; TP_unchecked = 3601 ; FP_unchecked = 3399
+Description: [col_1585 = '4', col_1610 = '4', col_1862 = '4', col_1894 = '4'], Target: Target = '1' ; Quality Measure Fitness = 0.4291434291434292 ; tp = 7 ; fp = 0 ; TP = 3601 ; FP = 3399 ; unchecked_tp = 7 ; unchecked_fp = 0 ; TP_unchecked = 3594 ; FP_unchecked = 3399

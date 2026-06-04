@@ -1,0 +1,3602 @@
+brca_n
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 5.0, 0.001, 32) 0.4347826086956522
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 5.0, 0.001, 64) 0.08695652173913049
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 5.0, 0.001, 128) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 5.0, 0.005, 32) -0.0039525691699604515
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 5.0, 0.005, 64) 0.8241106719367589
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 5.0, 0.005, 128) 0.6462450592885376
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 5.0, 0.01, 32) 0.24505928853754938
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 5.0, 0.01, 64) 0.38339920948616607
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 5.0, 0.01, 128) 0.6007905138339922
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 8.0, 0.001, 32) 0.26086956521739135
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 8.0, 0.001, 64) 0.041501976284585074
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 8.0, 0.001, 128) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 8.0, 0.005, 32) 0.4288537549407115
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 8.0, 0.005, 64) 0.782608695652174
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 8.0, 0.005, 128) 0.5652173913043479
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 8.0, 0.01, 32) 0.33003952569169964
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 8.0, 0.01, 64) 0.2905138339920948
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 8.0, 0.01, 128) 0.8656126482213439
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 10.0, 0.001, 32) 0.08695652173913049
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 10.0, 0.001, 64) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 10.0, 0.001, 128) 0.08695652173913049
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 10.0, 0.005, 32) 0.46837944664031617
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 10.0, 0.005, 64) 0.7312252964426877
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 10.0, 0.005, 128) 0.4743083003952569
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 10.0, 0.01, 32) 0.25494071146245056
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 10.0, 0.01, 64) 0.2490118577075099
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 10.0, 0.01, 128) 0.7371541501976285
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 12.0, 0.001, 32) 0.21739130434782605
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 12.0, 0.001, 64) 0.08695652173913049
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 12.0, 0.001, 128) 0.13043478260869568
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 12.0, 0.005, 32) 0.07905138339920958
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 12.0, 0.005, 64) 0.6067193675889329
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 12.0, 0.005, 128) 0.6442687747035574
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 12.0, 0.01, 32) 0.6897233201581028
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 12.0, 0.01, 64) 0.642292490118577
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 25, 12.0, 0.01, 128) 0.650197628458498
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 5.0, 0.001, 32) 0.5652173913043479
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 5.0, 0.001, 64) 0.08695652173913049
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 5.0, 0.001, 128) 0.08695652173913049
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 5.0, 0.005, 32) 0.03754940711462451
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 5.0, 0.005, 64) 0.8221343873517786
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 5.0, 0.005, 128) 0.733201581027668
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 5.0, 0.01, 32) 0.6047430830039525
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 5.0, 0.01, 64) 0.5138339920948617
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 5.0, 0.01, 128) 0.4703557312252965
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 8.0, 0.001, 32) 0.17391304347826086
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 8.0, 0.001, 64) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 8.0, 0.001, 128) 0.08695652173913049
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 8.0, 0.005, 32) 0.6462450592885376
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 8.0, 0.005, 64) 0.9090909090909091
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 8.0, 0.005, 128) 0.7371541501976285
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 8.0, 0.01, 32) 0.2944664031620553
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 8.0, 0.01, 64) 0.4644268774703557
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 8.0, 0.01, 128) 0.517786561264822
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 10.0, 0.001, 32) 0.21739130434782605
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 10.0, 0.001, 64) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 10.0, 0.001, 128) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 10.0, 0.005, 32) 0.38142292490118573
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 10.0, 0.005, 64) 0.5138339920948617
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 10.0, 0.005, 128) 0.7351778656126482
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 10.0, 0.01, 32) 0.3399209486166008
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 10.0, 0.01, 64) 0.5158102766798419
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 10.0, 0.01, 128) 0.5158102766798419
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 12.0, 0.001, 32) 0.30434782608695654
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 12.0, 0.001, 64) 0.041501976284585074
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 12.0, 0.001, 128) 0.08695652173913049
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 12.0, 0.005, 32) 0.38142292490118573
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 12.0, 0.005, 64) 0.6462450592885376
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 12.0, 0.005, 128) 0.43083003952569165
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 12.0, 0.01, 32) 0.5592885375494071
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 12.0, 0.01, 64) 0.4189723320158103
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 50, 12.0, 0.01, 128) 0.650197628458498
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 5.0, 0.001, 32) 0.4347826086956522
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 5.0, 0.001, 64) 0.0
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 5.0, 0.001, 128) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 5.0, 0.005, 32) -0.005928853754940677
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 5.0, 0.005, 64) 0.5632411067193677
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 5.0, 0.005, 128) 0.8221343873517786
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 5.0, 0.01, 32) 0.25494071146245056
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 5.0, 0.01, 64) 0.34189723320158105
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 5.0, 0.01, 128) 0.6086956521739131
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 8.0, 0.001, 32) 0.26086956521739135
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 8.0, 0.001, 64) 0.08498023715415026
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 8.0, 0.001, 128) 0.08695652173913049
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 8.0, 0.005, 32) -0.05138339920948609
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 8.0, 0.005, 64) 0.7351778656126482
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 8.0, 0.005, 128) 0.8675889328063242
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 8.0, 0.01, 32) 0.6047430830039525
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 8.0, 0.01, 64) 0.300395256916996
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 8.0, 0.01, 128) 0.557312252964427
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 10.0, 0.001, 32) 0.26086956521739135
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 10.0, 0.001, 64) -0.0019762845849802257
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 10.0, 0.001, 128) 0.0
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 10.0, 0.005, 32) 0.300395256916996
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 10.0, 0.005, 64) 0.6047430830039525
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 10.0, 0.005, 128) 0.6047430830039525
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 10.0, 0.01, 32) 0.42687747035573126
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 10.0, 0.01, 64) 0.5612648221343873
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 10.0, 0.01, 128) 0.7806324110671937
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 12.0, 0.001, 32) 0.12845849802371545
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 12.0, 0.001, 64) -0.0019762845849802257
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 12.0, 0.001, 128) 0.0
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 12.0, 0.005, 32) 0.5079051383399209
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 12.0, 0.005, 64) 0.6027667984189724
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 12.0, 0.005, 128) 0.7806324110671937
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 12.0, 0.01, 32) 0.16600790513833996
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 12.0, 0.01, 64) 0.38537549407114624
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 75, 12.0, 0.01, 128) 0.6047430830039525
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 5.0, 0.001, 32) 0.5652173913043479
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 5.0, 0.001, 64) 0.0
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 5.0, 0.001, 128) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 5.0, 0.005, 32) 0.5632411067193677
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 5.0, 0.005, 64) 0.5592885375494071
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 5.0, 0.005, 128) 0.7371541501976285
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 5.0, 0.01, 32) 0.12252964426877477
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 5.0, 0.01, 64) 0.4288537549407115
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 5.0, 0.01, 128) 0.6007905138339922
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 8.0, 0.001, 32) 0.17391304347826086
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 8.0, 0.001, 64) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 8.0, 0.001, 128) 0.0
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 8.0, 0.005, 32) 0.2490118577075099
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 8.0, 0.005, 64) 0.7351778656126482
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 8.0, 0.005, 128) 0.8675889328063242
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 8.0, 0.01, 32) 0.0810276679841897
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 8.0, 0.01, 64) 0.5612648221343873
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 8.0, 0.01, 128) 0.4743083003952569
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 10.0, 0.001, 32) 0.17391304347826086
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 10.0, 0.001, 64) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 10.0, 0.001, 128) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 10.0, 0.005, 32) 0.34189723320158105
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 10.0, 0.005, 64) 0.5612648221343873
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 10.0, 0.005, 128) 0.3893280632411068
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 10.0, 0.01, 32) 0.124505928853755
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 10.0, 0.01, 64) 0.11462450592885376
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 10.0, 0.01, 128) 0.6897233201581028
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 12.0, 0.001, 32) 0.21739130434782605
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 12.0, 0.001, 64) 0.12845849802371545
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 12.0, 0.001, 128) 0.04347826086956519
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 12.0, 0.005, 32) 0.34189723320158105
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 12.0, 0.005, 64) 0.6462450592885376
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 12.0, 0.005, 128) 0.6067193675889329
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 12.0, 0.01, 32) 0.035573122529644285
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 12.0, 0.01, 64) 0.1620553359683795
+BiModal
+tensor(-8.9958e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(500, 100, 12.0, 0.01, 128) 0.5217391304347826
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 5.0, 0.001, 32) 0.34782608695652173
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 5.0, 0.001, 64) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 5.0, 0.001, 128) 0.13043478260869568
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 5.0, 0.005, 32) 0.6086956521739131
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 5.0, 0.005, 64) 0.6936758893280632
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 5.0, 0.005, 128) 0.4347826086956522
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 5.0, 0.01, 32) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 5.0, 0.01, 64) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 5.0, 0.01, 128) -0.09288537549407117
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 8.0, 0.001, 32) 0.30434782608695654
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 8.0, 0.001, 64) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 8.0, 0.001, 128) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 8.0, 0.005, 32) 0.650197628458498
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 8.0, 0.005, 64) 0.6482213438735178
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 8.0, 0.005, 128) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 8.0, 0.01, 32) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 8.0, 0.01, 64) 0.124505928853755
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 8.0, 0.01, 128) 0.03952569169960474
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 10.0, 0.001, 32) 0.34782608695652173
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 10.0, 0.001, 64) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 10.0, 0.001, 128) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 10.0, 0.005, 32) 0.7371541501976285
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 10.0, 0.005, 64) 0.6047430830039525
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 10.0, 0.005, 128) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 10.0, 0.01, 32) 0.17193675889328064
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 10.0, 0.01, 64) 0.0810276679841897
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 10.0, 0.01, 128) -0.0019762845849802257
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 12.0, 0.001, 32) 0.4347826086956522
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 12.0, 0.001, 64) 0.2134387351778656
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 12.0, 0.001, 128) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 12.0, 0.005, 32) 0.7371541501976285
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 12.0, 0.005, 64) 0.6047430830039525
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 12.0, 0.005, 128) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 12.0, 0.01, 32) 0.5632411067193677
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 12.0, 0.01, 64) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 25, 12.0, 0.01, 128) -0.04743083003952575
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 5.0, 0.001, 32) 0.30434782608695654
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 5.0, 0.001, 64) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 5.0, 0.001, 128) 0.0
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 5.0, 0.005, 32) 0.6086956521739131
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 5.0, 0.005, 64) 0.6936758893280632
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 5.0, 0.005, 128) 0.4782608695652174
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 5.0, 0.01, 32) 0.34782608695652173
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 5.0, 0.01, 64) 0.17193675889328064
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 5.0, 0.01, 128) 0.0810276679841897
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 8.0, 0.001, 32) 0.30434782608695654
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 8.0, 0.001, 64) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 8.0, 0.001, 128) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 8.0, 0.005, 32) 0.650197628458498
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 8.0, 0.005, 64) 0.5632411067193677
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 8.0, 0.005, 128) 0.2588932806324111
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 8.0, 0.01, 32) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 8.0, 0.01, 64) 0.03952569169960474
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 8.0, 0.01, 128) 0.03754940711462451
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 10.0, 0.001, 32) 0.34782608695652173
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 10.0, 0.001, 64) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 10.0, 0.001, 128) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 10.0, 0.005, 32) 0.7371541501976285
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 10.0, 0.005, 64) 0.6047430830039525
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 10.0, 0.005, 128) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 10.0, 0.01, 32) 0.08300395256916993
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 10.0, 0.01, 64) 0.03754940711462451
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 10.0, 0.01, 128) 0.08300395256916993
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 12.0, 0.001, 32) 0.34782608695652173
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 12.0, 0.001, 64) 0.21146245059288538
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 12.0, 0.001, 128) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 12.0, 0.005, 32) 0.7371541501976285
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 12.0, 0.005, 64) 0.517786561264822
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 12.0, 0.005, 128) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 12.0, 0.01, 32) 0.4762845849802372
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 12.0, 0.01, 64) 0.124505928853755
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 50, 12.0, 0.01, 128) 0.0810276679841897
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 5.0, 0.001, 32) 0.26086956521739135
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 5.0, 0.001, 64) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 5.0, 0.001, 128) 0.21739130434782605
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 5.0, 0.005, 32) 0.3913043478260869
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 5.0, 0.005, 64) 0.650197628458498
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 5.0, 0.005, 128) 0.5217391304347826
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 5.0, 0.01, 32) 0.0
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 5.0, 0.01, 64) 0.13043478260869568
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 5.0, 0.01, 128) 0.0810276679841897
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 8.0, 0.001, 32) 0.30434782608695654
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 8.0, 0.001, 64) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 8.0, 0.001, 128) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 8.0, 0.005, 32) 0.5632411067193677
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 8.0, 0.005, 64) 0.5197628458498025
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 8.0, 0.005, 128) 0.2569169960474308
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 8.0, 0.01, 32) 0.08695652173913049
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 8.0, 0.01, 64) 0.04347826086956519
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 8.0, 0.01, 128) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 10.0, 0.001, 32) 0.4347826086956522
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 10.0, 0.001, 64) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 10.0, 0.001, 128) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 10.0, 0.005, 32) 0.4782608695652174
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 10.0, 0.005, 64) 0.6047430830039525
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 10.0, 0.005, 128) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 10.0, 0.01, 32) 0.13043478260869568
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 10.0, 0.01, 64) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 10.0, 0.01, 128) 0.2569169960474308
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 12.0, 0.001, 32) 0.34782608695652173
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 12.0, 0.001, 64) 0.21146245059288538
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 12.0, 0.001, 128) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 12.0, 0.005, 32) 0.7371541501976285
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 12.0, 0.005, 64) 0.5632411067193677
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 12.0, 0.005, 128) 0.2569169960474308
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 12.0, 0.01, 32) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 12.0, 0.01, 64) 0.17193675889328064
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 75, 12.0, 0.01, 128) 0.34189723320158105
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 5.0, 0.001, 32) 0.30434782608695654
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 5.0, 0.001, 64) 0.30434782608695654
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 5.0, 0.001, 128) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 5.0, 0.005, 32) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 5.0, 0.005, 64) 0.5612648221343873
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 5.0, 0.005, 128) 0.5197628458498025
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 5.0, 0.01, 32) 0.13043478260869568
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 5.0, 0.01, 64) -0.0019762845849802257
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 5.0, 0.01, 128) 0.2134387351778656
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 8.0, 0.001, 32) 0.30434782608695654
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 8.0, 0.001, 64) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 8.0, 0.001, 128) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 8.0, 0.005, 32) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 8.0, 0.005, 64) 0.5197628458498025
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 8.0, 0.005, 128) 0.432806324110672
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 8.0, 0.01, 32) 0.13043478260869568
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 8.0, 0.01, 64) 0.04347826086956519
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 8.0, 0.01, 128) 0.17193675889328064
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 10.0, 0.001, 32) 0.3913043478260869
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 10.0, 0.001, 64) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 10.0, 0.001, 128) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 10.0, 0.005, 32) 0.21541501976284594
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 10.0, 0.005, 64) 0.650197628458498
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 10.0, 0.005, 128) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 10.0, 0.01, 32) 0.08695652173913049
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 10.0, 0.01, 64) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 10.0, 0.01, 128) 0.3023715415019763
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 12.0, 0.001, 32) 0.30434782608695654
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 12.0, 0.001, 64) 0.21146245059288538
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 12.0, 0.001, 128) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 12.0, 0.005, 32) 0.6086956521739131
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 12.0, 0.005, 64) 0.6086956521739131
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 12.0, 0.005, 128) 0.3458498023715415
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 12.0, 0.01, 32) 0.17391304347826086
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 12.0, 0.01, 64) 0.12845849802371545
+BiModal
+tensor(-4.8318e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(1000, 100, 12.0, 0.01, 128) 0.38735177865612647
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 5.0, 0.001, 32) 0.34782608695652173
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 5.0, 0.001, 64) 0.6956521739130435
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 5.0, 0.001, 128) 0.6521739130434783
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 5.0, 0.005, 32) 0.7391304347826086
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 5.0, 0.005, 64) 0.8201581027667985
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 5.0, 0.005, 128) 0.8201581027667985
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 5.0, 0.01, 32) 0.26086956521739135
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 5.0, 0.01, 64) 0.8260869565217391
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 5.0, 0.01, 128) 0.8241106719367589
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 8.0, 0.001, 32) 0.34782608695652173
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 8.0, 0.001, 64) 0.6086956521739131
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 8.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 8.0, 0.005, 32) 0.650197628458498
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 8.0, 0.005, 64) 0.6047430830039525
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 8.0, 0.005, 128) 0.642292490118577
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 8.0, 0.01, 32) 0.3893280632411068
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 8.0, 0.01, 64) 0.517786561264822
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 8.0, 0.01, 128) 0.6482213438735178
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 10.0, 0.001, 32) 0.30434782608695654
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 10.0, 0.001, 64) 0.6521739130434783
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 10.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 10.0, 0.005, 32) 0.6521739130434783
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 10.0, 0.005, 64) 0.517786561264822
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 10.0, 0.005, 128) 0.5098814229249012
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 10.0, 0.01, 32) 0.30434782608695654
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 10.0, 0.01, 64) 0.8241106719367589
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 10.0, 0.01, 128) 0.6383399209486166
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 12.0, 0.001, 32) 0.26086956521739135
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 12.0, 0.001, 64) 0.6521739130434783
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 12.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 12.0, 0.005, 32) 0.7806324110671937
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 12.0, 0.005, 64) 0.691699604743083
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 12.0, 0.005, 128) 0.6936758893280632
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 12.0, 0.01, 32) 0.6956521739130435
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 12.0, 0.01, 64) 0.7292490118577075
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 25, 12.0, 0.01, 128) 0.733201581027668
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 5.0, 0.001, 32) 0.4347826086956522
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 5.0, 0.001, 64) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 5.0, 0.001, 128) 0.6521739130434783
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 5.0, 0.005, 32) 0.5652173913043479
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 5.0, 0.005, 64) 0.8201581027667985
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 5.0, 0.005, 128) 0.8656126482213439
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 5.0, 0.01, 32) 0.26086956521739135
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 5.0, 0.01, 64) 0.8675889328063242
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 5.0, 0.01, 128) 0.8241106719367589
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 8.0, 0.001, 32) 0.3913043478260869
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 8.0, 0.001, 64) 0.6956521739130435
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 8.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 8.0, 0.005, 32) 0.6086956521739131
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 8.0, 0.005, 64) 0.6047430830039525
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 8.0, 0.005, 128) 0.6007905138339922
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 8.0, 0.01, 32) 0.4782608695652174
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 8.0, 0.01, 64) 0.8675889328063242
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 8.0, 0.01, 128) 0.8656126482213439
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 10.0, 0.001, 32) 0.4347826086956522
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 10.0, 0.001, 64) 0.6521739130434783
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 10.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 10.0, 0.005, 32) 0.6521739130434783
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 10.0, 0.005, 64) 0.7351778656126482
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 10.0, 0.005, 128) 0.5118577075098814
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 10.0, 0.01, 32) 0.30434782608695654
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 10.0, 0.01, 64) 0.7786561264822134
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 10.0, 0.01, 128) 0.774703557312253
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 12.0, 0.001, 32) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 12.0, 0.001, 64) 0.6521739130434783
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 12.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 12.0, 0.005, 32) 0.782608695652174
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 12.0, 0.005, 64) 0.691699604743083
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 12.0, 0.005, 128) 0.7351778656126482
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 12.0, 0.01, 32) 0.8695652173913043
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 12.0, 0.01, 64) 0.8636363636363636
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 50, 12.0, 0.01, 128) 0.6363636363636364
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 5.0, 0.001, 32) 0.4347826086956522
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 5.0, 0.001, 64) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 5.0, 0.001, 128) 0.4782608695652174
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 5.0, 0.005, 32) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 5.0, 0.005, 64) 0.9110671936758894
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 5.0, 0.005, 128) 0.8636363636363636
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 5.0, 0.01, 32) 0.08695652173913049
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 5.0, 0.01, 64) 0.6956521739130435
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 5.0, 0.01, 128) 0.8241106719367589
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 8.0, 0.001, 32) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 8.0, 0.001, 64) 0.6956521739130435
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 8.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 8.0, 0.005, 32) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 8.0, 0.005, 64) 0.7806324110671937
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 8.0, 0.005, 128) 0.6027667984189724
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 8.0, 0.01, 32) 0.21739130434782605
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 8.0, 0.01, 64) 0.7371541501976285
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 8.0, 0.01, 128) 0.7806324110671937
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 10.0, 0.001, 32) 0.4347826086956522
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 10.0, 0.001, 64) 0.6956521739130435
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 10.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 10.0, 0.005, 32) 0.6521739130434783
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 10.0, 0.005, 64) 0.7351778656126482
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 10.0, 0.005, 128) 0.733201581027668
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 10.0, 0.01, 32) 0.13043478260869568
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 10.0, 0.01, 64) 0.8675889328063242
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 10.0, 0.01, 128) 0.8636363636363636
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 12.0, 0.001, 32) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 12.0, 0.001, 64) 0.6521739130434783
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 12.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 12.0, 0.005, 32) 0.6936758893280632
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 12.0, 0.005, 64) 0.7371541501976285
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 12.0, 0.005, 128) 0.7786561264822134
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 12.0, 0.01, 32) 0.21541501976284594
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 12.0, 0.01, 64) 0.8675889328063242
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 75, 12.0, 0.01, 128) 0.5909090909090909
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 5.0, 0.001, 32) 0.4782608695652174
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 5.0, 0.001, 64) 0.4782608695652174
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 5.0, 0.001, 128) 0.4782608695652174
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 5.0, 0.005, 32) 0.4782608695652174
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 5.0, 0.005, 64) 0.782608695652174
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 5.0, 0.005, 128) 0.9090909090909091
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 5.0, 0.01, 32) 0.13043478260869568
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 5.0, 0.01, 64) 0.3913043478260869
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 5.0, 0.01, 128) 0.8695652173913043
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 8.0, 0.001, 32) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 8.0, 0.001, 64) 0.6956521739130435
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 8.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 8.0, 0.005, 32) 0.4347826086956522
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 8.0, 0.005, 64) 0.7786561264822134
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 8.0, 0.005, 128) 0.8636363636363636
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 8.0, 0.01, 32) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 8.0, 0.01, 64) 0.7391304347826086
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 8.0, 0.01, 128) 0.7351778656126482
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 10.0, 0.001, 32) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 10.0, 0.001, 64) 0.6956521739130435
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 10.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 10.0, 0.005, 32) 0.8260869565217391
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 10.0, 0.005, 64) 0.7351778656126482
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 10.0, 0.005, 128) 0.5513833992094861
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 10.0, 0.01, 32) 0.21739130434782605
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 10.0, 0.01, 64) 0.8675889328063242
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 10.0, 0.01, 128) 0.8201581027667985
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 12.0, 0.001, 32) 0.5217391304347826
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 12.0, 0.001, 64) 0.7391304347826086
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 12.0, 0.001, 128) 0.5612648221343873
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 12.0, 0.005, 32) 0.6067193675889329
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 12.0, 0.005, 64) 0.7371541501976285
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 12.0, 0.005, 128) 0.7806324110671937
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 12.0, 0.01, 32) 0.0
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 12.0, 0.01, 64) 0.6936758893280632
+BiModal
+tensor(-1.0532e-06, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(2000, 100, 12.0, 0.01, 128) 0.5909090909090909
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 5.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 5.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 5.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 5.0, 0.005, 32) 0.8201581027667985
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 5.0, 0.005, 64) 0.691699604743083
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 5.0, 0.005, 128) 0.6818181818181818
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 5.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 5.0, 0.01, 64) 0.6877470355731226
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 5.0, 0.01, 128) 0.7272727272727273
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 8.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 8.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 8.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 8.0, 0.005, 32) 0.5909090909090909
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 8.0, 0.005, 64) 0.6897233201581028
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 8.0, 0.005, 128) 0.9090909090909091
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 8.0, 0.01, 32) 0.13043478260869568
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 8.0, 0.01, 64) 0.46837944664031617
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 8.0, 0.01, 128) 0.7272727272727273
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 10.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 10.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 10.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 10.0, 0.005, 32) 0.9090909090909091
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 10.0, 0.005, 64) 0.8201581027667985
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 10.0, 0.005, 128) 0.8181818181818182
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 10.0, 0.01, 32) 0.21739130434782605
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 10.0, 0.01, 64) 0.33399209486166004
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 10.0, 0.01, 128) 0.774703557312253
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 12.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 12.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 12.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 12.0, 0.005, 32) 0.8201581027667985
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 12.0, 0.005, 64) 0.7351778656126482
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 12.0, 0.005, 128) 0.7272727272727273
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 12.0, 0.01, 32) 0.08695652173913049
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 12.0, 0.01, 64) 0.5988142292490118
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 25, 12.0, 0.01, 128) 0.774703557312253
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 5.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 5.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 5.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 5.0, 0.005, 32) 0.7786561264822134
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 5.0, 0.005, 64) 0.7371541501976285
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 5.0, 0.005, 128) 0.45454545454545453
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 5.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 5.0, 0.01, 64) 0.6877470355731226
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 5.0, 0.01, 128) 0.6403162055335969
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 8.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 8.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 8.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 8.0, 0.005, 32) 0.5909090909090909
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 8.0, 0.005, 64) 0.6897233201581028
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 8.0, 0.005, 128) 0.8636363636363636
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 8.0, 0.01, 32) 0.13043478260869568
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 8.0, 0.01, 64) 0.46837944664031617
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 8.0, 0.01, 128) 0.6857707509881423
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 10.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 10.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 10.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 10.0, 0.005, 32) 0.8636363636363636
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 10.0, 0.005, 64) 0.9110671936758894
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 10.0, 0.005, 128) 0.8181818181818182
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 10.0, 0.01, 32) 0.26086956521739135
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 10.0, 0.01, 64) 0.37944664031620556
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 10.0, 0.01, 128) 0.5948616600790513
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 12.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 12.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 12.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 12.0, 0.005, 32) 0.8656126482213439
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 12.0, 0.005, 64) 0.7351778656126482
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 12.0, 0.005, 128) 0.45454545454545453
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 12.0, 0.01, 32) 0.041501976284585074
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 12.0, 0.01, 64) 0.6877470355731226
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 50, 12.0, 0.01, 128) 0.3221343873517787
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 5.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 5.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 5.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 5.0, 0.005, 32) 0.6877470355731226
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 5.0, 0.005, 64) 0.6936758893280632
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 5.0, 0.005, 128) 0.45454545454545453
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 5.0, 0.01, 32) 0.08695652173913049
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 5.0, 0.01, 64) 0.8241106719367589
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 5.0, 0.01, 128) 0.9090909090909091
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 8.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 8.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 8.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 8.0, 0.005, 32) 0.774703557312253
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 8.0, 0.005, 64) 0.7371541501976285
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 8.0, 0.005, 128) 0.8181818181818182
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 8.0, 0.01, 32) 0.13043478260869568
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 8.0, 0.01, 64) 0.5632411067193677
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 8.0, 0.01, 128) 0.7272727272727273
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 10.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 10.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 10.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 10.0, 0.005, 32) 0.5909090909090909
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 10.0, 0.005, 64) 0.8656126482213439
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 10.0, 0.005, 128) 0.8181818181818182
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 10.0, 0.01, 32) 0.04347826086956519
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 10.0, 0.01, 64) 0.4189723320158103
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 10.0, 0.01, 128) 0.8636363636363636
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 12.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 12.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 12.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 12.0, 0.005, 32) 0.8656126482213439
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 12.0, 0.005, 64) 0.6482213438735178
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 12.0, 0.005, 128) 0.6363636363636364
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 12.0, 0.01, 32) 0.08695652173913049
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 12.0, 0.01, 64) 0.6857707509881423
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 75, 12.0, 0.01, 128) 0.36363636363636365
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 5.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 5.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 5.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 5.0, 0.005, 32) 0.6442687747035574
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 5.0, 0.005, 64) 0.782608695652174
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 5.0, 0.005, 128) 0.045454545454545456
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 5.0, 0.01, 32) 0.04347826086956519
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 5.0, 0.01, 64) 0.7806324110671937
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 5.0, 0.01, 128) 0.7272727272727273
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 8.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 8.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 8.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 8.0, 0.005, 32) 0.7272727272727273
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 8.0, 0.005, 64) 0.6897233201581028
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 8.0, 0.005, 128) 0.6818181818181818
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 8.0, 0.01, 32) 0.21739130434782605
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 8.0, 0.01, 64) 0.7806324110671937
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 8.0, 0.01, 128) 0.4565217391304348
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 10.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 10.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 10.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 10.0, 0.005, 32) 0.5474308300395258
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 10.0, 0.005, 64) 0.8201581027667985
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 10.0, 0.005, 128) 0.6818181818181818
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 10.0, 0.01, 32) 0.08695652173913049
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 10.0, 0.01, 64) 0.650197628458498
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 10.0, 0.01, 128) 0.4110671936758893
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 12.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 12.0, 0.001, 64) 0.22727272727272727
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 12.0, 0.001, 128) 0.6007905138339922
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 12.0, 0.005, 32) 0.8221343873517786
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 12.0, 0.005, 64) 0.7786561264822134
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 12.0, 0.005, 128) 0.4090909090909091
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 12.0, 0.01, 32) 0.04347826086956519
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 12.0, 0.01, 64) 0.7351778656126482
+BiModal
+tensor(-2.6733e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(5000, 100, 12.0, 0.01, 128) 0.5454545454545454
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 5.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 5.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 5.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 5.0, 0.005, 32) 0.43083003952569165
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 5.0, 0.005, 64) 0.8241106719367589
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 5.0, 0.005, 128) 0.8260869565217391
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 5.0, 0.01, 32) 0.04347826086956519
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 5.0, 0.01, 64) 0.21739130434782605
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 5.0, 0.01, 128) 0.26086956521739135
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 8.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 8.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 8.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 8.0, 0.005, 32) 0.8656126482213439
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 8.0, 0.005, 64) 0.8241106719367589
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 8.0, 0.005, 128) 0.8675889328063242
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 8.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 8.0, 0.01, 64) 0.13043478260869568
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 8.0, 0.01, 128) 0.4347826086956522
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 10.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 10.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 10.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 10.0, 0.005, 32) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 10.0, 0.005, 64) 0.7786561264822134
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 10.0, 0.005, 128) 0.8675889328063242
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 10.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 10.0, 0.01, 64) 0.26086956521739135
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 10.0, 0.01, 128) 0.5217391304347826
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 12.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 12.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 12.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 12.0, 0.005, 32) 0.5197628458498025
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 12.0, 0.005, 64) 0.8221343873517786
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 12.0, 0.005, 128) 0.8695652173913043
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 12.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 12.0, 0.01, 64) 0.30434782608695654
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 25, 12.0, 0.01, 128) 0.4347826086956522
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 5.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 5.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 5.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 5.0, 0.005, 32) 0.38735177865612647
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 5.0, 0.005, 64) 0.9110671936758894
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 5.0, 0.005, 128) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 5.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 5.0, 0.01, 64) 0.30434782608695654
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 5.0, 0.01, 128) 0.17391304347826086
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 8.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 8.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 8.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 8.0, 0.005, 32) 0.650197628458498
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 8.0, 0.005, 64) 0.8695652173913043
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 8.0, 0.005, 128) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 8.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 8.0, 0.01, 64) 0.17391304347826086
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 8.0, 0.01, 128) 0.4782608695652174
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 10.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 10.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 10.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 10.0, 0.005, 32) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 10.0, 0.005, 64) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 10.0, 0.005, 128) 0.8675889328063242
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 10.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 10.0, 0.01, 64) 0.30434782608695654
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 10.0, 0.01, 128) 0.4347826086956522
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 12.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 12.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 12.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 12.0, 0.005, 32) 0.43083003952569165
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 12.0, 0.005, 64) 0.8675889328063242
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 12.0, 0.005, 128) 0.8695652173913043
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 12.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 12.0, 0.01, 64) 0.4347826086956522
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 50, 12.0, 0.01, 128) 0.5652173913043479
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 5.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 5.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 5.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 5.0, 0.005, 32) 0.4762845849802372
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 5.0, 0.005, 64) 0.8675889328063242
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 5.0, 0.005, 128) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 5.0, 0.01, 32) 0.04347826086956519
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 5.0, 0.01, 64) 0.30434782608695654
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 5.0, 0.01, 128) 0.17391304347826086
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 8.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 8.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 8.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 8.0, 0.005, 32) 0.6936758893280632
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 8.0, 0.005, 64) 0.8695652173913043
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 8.0, 0.005, 128) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 8.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 8.0, 0.01, 64) 0.21739130434782605
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 8.0, 0.01, 128) 0.4347826086956522
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 10.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 10.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 10.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 10.0, 0.005, 32) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 10.0, 0.005, 64) 0.9565217391304348
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 10.0, 0.005, 128) 0.8675889328063242
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 10.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 10.0, 0.01, 64) 0.34782608695652173
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 10.0, 0.01, 128) 0.4347826086956522
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 12.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 12.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 12.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 12.0, 0.005, 32) 0.5652173913043479
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 12.0, 0.005, 64) 0.9110671936758894
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 12.0, 0.005, 128) 0.8695652173913043
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 12.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 12.0, 0.01, 64) 0.3913043478260869
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 75, 12.0, 0.01, 128) 0.5652173913043479
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 5.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 5.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 5.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 5.0, 0.005, 32) 0.6936758893280632
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 5.0, 0.005, 64) 0.8675889328063242
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 5.0, 0.005, 128) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 5.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 5.0, 0.01, 64) 0.34782608695652173
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 5.0, 0.01, 128) 0.17391304347826086
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 8.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 8.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 8.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 8.0, 0.005, 32) 0.6521739130434783
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 8.0, 0.005, 64) 0.8695652173913043
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 8.0, 0.005, 128) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 8.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 8.0, 0.01, 64) 0.13043478260869568
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 8.0, 0.01, 128) 0.26086956521739135
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 10.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 10.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 10.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 10.0, 0.005, 32) 0.6956521739130435
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 10.0, 0.005, 64) 0.9565217391304348
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 10.0, 0.005, 128) 0.8675889328063242
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 10.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 10.0, 0.01, 64) 0.34782608695652173
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 10.0, 0.01, 128) 0.4347826086956522
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 12.0, 0.001, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 12.0, 0.001, 64) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 12.0, 0.001, 128) 0.6403162055335969
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 12.0, 0.005, 32) 0.6521739130434783
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 12.0, 0.005, 64) 0.9130434782608696
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 12.0, 0.005, 128) 0.8260869565217391
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 12.0, 0.01, 32) 0.0
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 12.0, 0.01, 64) 0.21739130434782605
+BiModal
+tensor(-2.3705e-07, device='cuda:0', grad_fn=<MeanBackward0>)
+Data Sparsity:
+0.24439488551888194
+(10000, 100, 12.0, 0.01, 128) 0.5217391304347826
+{(500, 25, 5.0, 0.001, 32): 0.4347826086956522, (500, 25, 5.0, 0.001, 64): 0.08695652173913049, (500, 25, 5.0, 0.001, 128): 0.04347826086956519, (500, 25, 5.0, 0.005, 32): -0.0039525691699604515, (500, 25, 5.0, 0.005, 64): 0.8241106719367589, (500, 25, 5.0, 0.005, 128): 0.6462450592885376, (500, 25, 5.0, 0.01, 32): 0.24505928853754938, (500, 25, 5.0, 0.01, 64): 0.38339920948616607, (500, 25, 5.0, 0.01, 128): 0.6007905138339922, (500, 25, 8.0, 0.001, 32): 0.26086956521739135, (500, 25, 8.0, 0.001, 64): 0.041501976284585074, (500, 25, 8.0, 0.001, 128): 0.04347826086956519, (500, 25, 8.0, 0.005, 32): 0.4288537549407115, (500, 25, 8.0, 0.005, 64): 0.782608695652174, (500, 25, 8.0, 0.005, 128): 0.5652173913043479, (500, 25, 8.0, 0.01, 32): 0.33003952569169964, (500, 25, 8.0, 0.01, 64): 0.2905138339920948, (500, 25, 8.0, 0.01, 128): 0.8656126482213439, (500, 25, 10.0, 0.001, 32): 0.08695652173913049, (500, 25, 10.0, 0.001, 64): 0.04347826086956519, (500, 25, 10.0, 0.001, 128): 0.08695652173913049, (500, 25, 10.0, 0.005, 32): 0.46837944664031617, (500, 25, 10.0, 0.005, 64): 0.7312252964426877, (500, 25, 10.0, 0.005, 128): 0.4743083003952569, (500, 25, 10.0, 0.01, 32): 0.25494071146245056, (500, 25, 10.0, 0.01, 64): 0.2490118577075099, (500, 25, 10.0, 0.01, 128): 0.7371541501976285, (500, 25, 12.0, 0.001, 32): 0.21739130434782605, (500, 25, 12.0, 0.001, 64): 0.08695652173913049, (500, 25, 12.0, 0.001, 128): 0.13043478260869568, (500, 25, 12.0, 0.005, 32): 0.07905138339920958, (500, 25, 12.0, 0.005, 64): 0.6067193675889329, (500, 25, 12.0, 0.005, 128): 0.6442687747035574, (500, 25, 12.0, 0.01, 32): 0.6897233201581028, (500, 25, 12.0, 0.01, 64): 0.642292490118577, (500, 25, 12.0, 0.01, 128): 0.650197628458498, (500, 50, 5.0, 0.001, 32): 0.5652173913043479, (500, 50, 5.0, 0.001, 64): 0.08695652173913049, (500, 50, 5.0, 0.001, 128): 0.08695652173913049, (500, 50, 5.0, 0.005, 32): 0.03754940711462451, (500, 50, 5.0, 0.005, 64): 0.8221343873517786, (500, 50, 5.0, 0.005, 128): 0.733201581027668, (500, 50, 5.0, 0.01, 32): 0.6047430830039525, (500, 50, 5.0, 0.01, 64): 0.5138339920948617, (500, 50, 5.0, 0.01, 128): 0.4703557312252965, (500, 50, 8.0, 0.001, 32): 0.17391304347826086, (500, 50, 8.0, 0.001, 64): 0.04347826086956519, (500, 50, 8.0, 0.001, 128): 0.08695652173913049, (500, 50, 8.0, 0.005, 32): 0.6462450592885376, (500, 50, 8.0, 0.005, 64): 0.9090909090909091, (500, 50, 8.0, 0.005, 128): 0.7371541501976285, (500, 50, 8.0, 0.01, 32): 0.2944664031620553, (500, 50, 8.0, 0.01, 64): 0.4644268774703557, (500, 50, 8.0, 0.01, 128): 0.517786561264822, (500, 50, 10.0, 0.001, 32): 0.21739130434782605, (500, 50, 10.0, 0.001, 64): 0.04347826086956519, (500, 50, 10.0, 0.001, 128): 0.04347826086956519, (500, 50, 10.0, 0.005, 32): 0.38142292490118573, (500, 50, 10.0, 0.005, 64): 0.5138339920948617, (500, 50, 10.0, 0.005, 128): 0.7351778656126482, (500, 50, 10.0, 0.01, 32): 0.3399209486166008, (500, 50, 10.0, 0.01, 64): 0.5158102766798419, (500, 50, 10.0, 0.01, 128): 0.5158102766798419, (500, 50, 12.0, 0.001, 32): 0.30434782608695654, (500, 50, 12.0, 0.001, 64): 0.041501976284585074, (500, 50, 12.0, 0.001, 128): 0.08695652173913049, (500, 50, 12.0, 0.005, 32): 0.38142292490118573, (500, 50, 12.0, 0.005, 64): 0.6462450592885376, (500, 50, 12.0, 0.005, 128): 0.43083003952569165, (500, 50, 12.0, 0.01, 32): 0.5592885375494071, (500, 50, 12.0, 0.01, 64): 0.4189723320158103, (500, 50, 12.0, 0.01, 128): 0.650197628458498, (500, 75, 5.0, 0.001, 32): 0.4347826086956522, (500, 75, 5.0, 0.001, 64): 0.0, (500, 75, 5.0, 0.001, 128): 0.04347826086956519, (500, 75, 5.0, 0.005, 32): -0.005928853754940677, (500, 75, 5.0, 0.005, 64): 0.5632411067193677, (500, 75, 5.0, 0.005, 128): 0.8221343873517786, (500, 75, 5.0, 0.01, 32): 0.25494071146245056, (500, 75, 5.0, 0.01, 64): 0.34189723320158105, (500, 75, 5.0, 0.01, 128): 0.6086956521739131, (500, 75, 8.0, 0.001, 32): 0.26086956521739135, (500, 75, 8.0, 0.001, 64): 0.08498023715415026, (500, 75, 8.0, 0.001, 128): 0.08695652173913049, (500, 75, 8.0, 0.005, 32): -0.05138339920948609, (500, 75, 8.0, 0.005, 64): 0.7351778656126482, (500, 75, 8.0, 0.005, 128): 0.8675889328063242, (500, 75, 8.0, 0.01, 32): 0.6047430830039525, (500, 75, 8.0, 0.01, 64): 0.300395256916996, (500, 75, 8.0, 0.01, 128): 0.557312252964427, (500, 75, 10.0, 0.001, 32): 0.26086956521739135, (500, 75, 10.0, 0.001, 64): -0.0019762845849802257, (500, 75, 10.0, 0.001, 128): 0.0, (500, 75, 10.0, 0.005, 32): 0.300395256916996, (500, 75, 10.0, 0.005, 64): 0.6047430830039525, (500, 75, 10.0, 0.005, 128): 0.6047430830039525, (500, 75, 10.0, 0.01, 32): 0.42687747035573126, (500, 75, 10.0, 0.01, 64): 0.5612648221343873, (500, 75, 10.0, 0.01, 128): 0.7806324110671937, (500, 75, 12.0, 0.001, 32): 0.12845849802371545, (500, 75, 12.0, 0.001, 64): -0.0019762845849802257, (500, 75, 12.0, 0.001, 128): 0.0, (500, 75, 12.0, 0.005, 32): 0.5079051383399209, (500, 75, 12.0, 0.005, 64): 0.6027667984189724, (500, 75, 12.0, 0.005, 128): 0.7806324110671937, (500, 75, 12.0, 0.01, 32): 0.16600790513833996, (500, 75, 12.0, 0.01, 64): 0.38537549407114624, (500, 75, 12.0, 0.01, 128): 0.6047430830039525, (500, 100, 5.0, 0.001, 32): 0.5652173913043479, (500, 100, 5.0, 0.001, 64): 0.0, (500, 100, 5.0, 0.001, 128): 0.04347826086956519, (500, 100, 5.0, 0.005, 32): 0.5632411067193677, (500, 100, 5.0, 0.005, 64): 0.5592885375494071, (500, 100, 5.0, 0.005, 128): 0.7371541501976285, (500, 100, 5.0, 0.01, 32): 0.12252964426877477, (500, 100, 5.0, 0.01, 64): 0.4288537549407115, (500, 100, 5.0, 0.01, 128): 0.6007905138339922, (500, 100, 8.0, 0.001, 32): 0.17391304347826086, (500, 100, 8.0, 0.001, 64): 0.04347826086956519, (500, 100, 8.0, 0.001, 128): 0.0, (500, 100, 8.0, 0.005, 32): 0.2490118577075099, (500, 100, 8.0, 0.005, 64): 0.7351778656126482, (500, 100, 8.0, 0.005, 128): 0.8675889328063242, (500, 100, 8.0, 0.01, 32): 0.0810276679841897, (500, 100, 8.0, 0.01, 64): 0.5612648221343873, (500, 100, 8.0, 0.01, 128): 0.4743083003952569, (500, 100, 10.0, 0.001, 32): 0.17391304347826086, (500, 100, 10.0, 0.001, 64): 0.04347826086956519, (500, 100, 10.0, 0.001, 128): 0.04347826086956519, (500, 100, 10.0, 0.005, 32): 0.34189723320158105, (500, 100, 10.0, 0.005, 64): 0.5612648221343873, (500, 100, 10.0, 0.005, 128): 0.3893280632411068, (500, 100, 10.0, 0.01, 32): 0.124505928853755, (500, 100, 10.0, 0.01, 64): 0.11462450592885376, (500, 100, 10.0, 0.01, 128): 0.6897233201581028, (500, 100, 12.0, 0.001, 32): 0.21739130434782605, (500, 100, 12.0, 0.001, 64): 0.12845849802371545, (500, 100, 12.0, 0.001, 128): 0.04347826086956519, (500, 100, 12.0, 0.005, 32): 0.34189723320158105, (500, 100, 12.0, 0.005, 64): 0.6462450592885376, (500, 100, 12.0, 0.005, 128): 0.6067193675889329, (500, 100, 12.0, 0.01, 32): 0.035573122529644285, (500, 100, 12.0, 0.01, 64): 0.1620553359683795, (500, 100, 12.0, 0.01, 128): 0.5217391304347826, (1000, 25, 5.0, 0.001, 32): 0.34782608695652173, (1000, 25, 5.0, 0.001, 64): 0.21541501976284594, (1000, 25, 5.0, 0.001, 128): 0.13043478260869568, (1000, 25, 5.0, 0.005, 32): 0.6086956521739131, (1000, 25, 5.0, 0.005, 64): 0.6936758893280632, (1000, 25, 5.0, 0.005, 128): 0.4347826086956522, (1000, 25, 5.0, 0.01, 32): 0.3023715415019763, (1000, 25, 5.0, 0.01, 64): 0.12845849802371545, (1000, 25, 5.0, 0.01, 128): -0.09288537549407117, (1000, 25, 8.0, 0.001, 32): 0.30434782608695654, (1000, 25, 8.0, 0.001, 64): 0.21541501976284594, (1000, 25, 8.0, 0.001, 128): 0.17391304347826086, (1000, 25, 8.0, 0.005, 32): 0.650197628458498, (1000, 25, 8.0, 0.005, 64): 0.6482213438735178, (1000, 25, 8.0, 0.005, 128): 0.17391304347826086, (1000, 25, 8.0, 0.01, 32): 0.3023715415019763, (1000, 25, 8.0, 0.01, 64): 0.124505928853755, (1000, 25, 8.0, 0.01, 128): 0.03952569169960474, (1000, 25, 10.0, 0.001, 32): 0.34782608695652173, (1000, 25, 10.0, 0.001, 64): 0.21541501976284594, (1000, 25, 10.0, 0.001, 128): 0.12845849802371545, (1000, 25, 10.0, 0.005, 32): 0.7371541501976285, (1000, 25, 10.0, 0.005, 64): 0.6047430830039525, (1000, 25, 10.0, 0.005, 128): 0.21541501976284594, (1000, 25, 10.0, 0.01, 32): 0.17193675889328064, (1000, 25, 10.0, 0.01, 64): 0.0810276679841897, (1000, 25, 10.0, 0.01, 128): -0.0019762845849802257, (1000, 25, 12.0, 0.001, 32): 0.4347826086956522, (1000, 25, 12.0, 0.001, 64): 0.2134387351778656, (1000, 25, 12.0, 0.001, 128): 0.12845849802371545, (1000, 25, 12.0, 0.005, 32): 0.7371541501976285, (1000, 25, 12.0, 0.005, 64): 0.6047430830039525, (1000, 25, 12.0, 0.005, 128): 0.21541501976284594, (1000, 25, 12.0, 0.01, 32): 0.5632411067193677, (1000, 25, 12.0, 0.01, 64): 0.17391304347826086, (1000, 25, 12.0, 0.01, 128): -0.04743083003952575, (1000, 50, 5.0, 0.001, 32): 0.30434782608695654, (1000, 50, 5.0, 0.001, 64): 0.3023715415019763, (1000, 50, 5.0, 0.001, 128): 0.0, (1000, 50, 5.0, 0.005, 32): 0.6086956521739131, (1000, 50, 5.0, 0.005, 64): 0.6936758893280632, (1000, 50, 5.0, 0.005, 128): 0.4782608695652174, (1000, 50, 5.0, 0.01, 32): 0.34782608695652173, (1000, 50, 5.0, 0.01, 64): 0.17193675889328064, (1000, 50, 5.0, 0.01, 128): 0.0810276679841897, (1000, 50, 8.0, 0.001, 32): 0.30434782608695654, (1000, 50, 8.0, 0.001, 64): 0.21541501976284594, (1000, 50, 8.0, 0.001, 128): 0.17391304347826086, (1000, 50, 8.0, 0.005, 32): 0.650197628458498, (1000, 50, 8.0, 0.005, 64): 0.5632411067193677, (1000, 50, 8.0, 0.005, 128): 0.2588932806324111, (1000, 50, 8.0, 0.01, 32): 0.12845849802371545, (1000, 50, 8.0, 0.01, 64): 0.03952569169960474, (1000, 50, 8.0, 0.01, 128): 0.03754940711462451, (1000, 50, 10.0, 0.001, 32): 0.34782608695652173, (1000, 50, 10.0, 0.001, 64): 0.21541501976284594, (1000, 50, 10.0, 0.001, 128): 0.12845849802371545, (1000, 50, 10.0, 0.005, 32): 0.7371541501976285, (1000, 50, 10.0, 0.005, 64): 0.6047430830039525, (1000, 50, 10.0, 0.005, 128): 0.3023715415019763, (1000, 50, 10.0, 0.01, 32): 0.08300395256916993, (1000, 50, 10.0, 0.01, 64): 0.03754940711462451, (1000, 50, 10.0, 0.01, 128): 0.08300395256916993, (1000, 50, 12.0, 0.001, 32): 0.34782608695652173, (1000, 50, 12.0, 0.001, 64): 0.21146245059288538, (1000, 50, 12.0, 0.001, 128): 0.12845849802371545, (1000, 50, 12.0, 0.005, 32): 0.7371541501976285, (1000, 50, 12.0, 0.005, 64): 0.517786561264822, (1000, 50, 12.0, 0.005, 128): 0.3023715415019763, (1000, 50, 12.0, 0.01, 32): 0.4762845849802372, (1000, 50, 12.0, 0.01, 64): 0.124505928853755, (1000, 50, 12.0, 0.01, 128): 0.0810276679841897, (1000, 75, 5.0, 0.001, 32): 0.26086956521739135, (1000, 75, 5.0, 0.001, 64): 0.3023715415019763, (1000, 75, 5.0, 0.001, 128): 0.21739130434782605, (1000, 75, 5.0, 0.005, 32): 0.3913043478260869, (1000, 75, 5.0, 0.005, 64): 0.650197628458498, (1000, 75, 5.0, 0.005, 128): 0.5217391304347826, (1000, 75, 5.0, 0.01, 32): 0.0, (1000, 75, 5.0, 0.01, 64): 0.13043478260869568, (1000, 75, 5.0, 0.01, 128): 0.0810276679841897, (1000, 75, 8.0, 0.001, 32): 0.30434782608695654, (1000, 75, 8.0, 0.001, 64): 0.21541501976284594, (1000, 75, 8.0, 0.001, 128): 0.17391304347826086, (1000, 75, 8.0, 0.005, 32): 0.5632411067193677, (1000, 75, 8.0, 0.005, 64): 0.5197628458498025, (1000, 75, 8.0, 0.005, 128): 0.2569169960474308, (1000, 75, 8.0, 0.01, 32): 0.08695652173913049, (1000, 75, 8.0, 0.01, 64): 0.04347826086956519, (1000, 75, 8.0, 0.01, 128): 0.21541501976284594, (1000, 75, 10.0, 0.001, 32): 0.4347826086956522, (1000, 75, 10.0, 0.001, 64): 0.3023715415019763, (1000, 75, 10.0, 0.001, 128): 0.17391304347826086, (1000, 75, 10.0, 0.005, 32): 0.4782608695652174, (1000, 75, 10.0, 0.005, 64): 0.6047430830039525, (1000, 75, 10.0, 0.005, 128): 0.3023715415019763, (1000, 75, 10.0, 0.01, 32): 0.13043478260869568, (1000, 75, 10.0, 0.01, 64): 0.12845849802371545, (1000, 75, 10.0, 0.01, 128): 0.2569169960474308, (1000, 75, 12.0, 0.001, 32): 0.34782608695652173, (1000, 75, 12.0, 0.001, 64): 0.21146245059288538, (1000, 75, 12.0, 0.001, 128): 0.12845849802371545, (1000, 75, 12.0, 0.005, 32): 0.7371541501976285, (1000, 75, 12.0, 0.005, 64): 0.5632411067193677, (1000, 75, 12.0, 0.005, 128): 0.2569169960474308, (1000, 75, 12.0, 0.01, 32): 0.17391304347826086, (1000, 75, 12.0, 0.01, 64): 0.17193675889328064, (1000, 75, 12.0, 0.01, 128): 0.34189723320158105, (1000, 100, 5.0, 0.001, 32): 0.30434782608695654, (1000, 100, 5.0, 0.001, 64): 0.30434782608695654, (1000, 100, 5.0, 0.001, 128): 0.17391304347826086, (1000, 100, 5.0, 0.005, 32): 0.17391304347826086, (1000, 100, 5.0, 0.005, 64): 0.5612648221343873, (1000, 100, 5.0, 0.005, 128): 0.5197628458498025, (1000, 100, 5.0, 0.01, 32): 0.13043478260869568, (1000, 100, 5.0, 0.01, 64): -0.0019762845849802257, (1000, 100, 5.0, 0.01, 128): 0.2134387351778656, (1000, 100, 8.0, 0.001, 32): 0.30434782608695654, (1000, 100, 8.0, 0.001, 64): 0.21541501976284594, (1000, 100, 8.0, 0.001, 128): 0.17391304347826086, (1000, 100, 8.0, 0.005, 32): 0.17391304347826086, (1000, 100, 8.0, 0.005, 64): 0.5197628458498025, (1000, 100, 8.0, 0.005, 128): 0.432806324110672, (1000, 100, 8.0, 0.01, 32): 0.13043478260869568, (1000, 100, 8.0, 0.01, 64): 0.04347826086956519, (1000, 100, 8.0, 0.01, 128): 0.17193675889328064, (1000, 100, 10.0, 0.001, 32): 0.3913043478260869, (1000, 100, 10.0, 0.001, 64): 0.3023715415019763, (1000, 100, 10.0, 0.001, 128): 0.17391304347826086, (1000, 100, 10.0, 0.005, 32): 0.21541501976284594, (1000, 100, 10.0, 0.005, 64): 0.650197628458498, (1000, 100, 10.0, 0.005, 128): 0.3023715415019763, (1000, 100, 10.0, 0.01, 32): 0.08695652173913049, (1000, 100, 10.0, 0.01, 64): 0.12845849802371545, (1000, 100, 10.0, 0.01, 128): 0.3023715415019763, (1000, 100, 12.0, 0.001, 32): 0.30434782608695654, (1000, 100, 12.0, 0.001, 64): 0.21146245059288538, (1000, 100, 12.0, 0.001, 128): 0.12845849802371545, (1000, 100, 12.0, 0.005, 32): 0.6086956521739131, (1000, 100, 12.0, 0.005, 64): 0.6086956521739131, (1000, 100, 12.0, 0.005, 128): 0.3458498023715415, (1000, 100, 12.0, 0.01, 32): 0.17391304347826086, (1000, 100, 12.0, 0.01, 64): 0.12845849802371545, (1000, 100, 12.0, 0.01, 128): 0.38735177865612647, (2000, 25, 5.0, 0.001, 32): 0.34782608695652173, (2000, 25, 5.0, 0.001, 64): 0.6956521739130435, (2000, 25, 5.0, 0.001, 128): 0.6521739130434783, (2000, 25, 5.0, 0.005, 32): 0.7391304347826086, (2000, 25, 5.0, 0.005, 64): 0.8201581027667985, (2000, 25, 5.0, 0.005, 128): 0.8201581027667985, (2000, 25, 5.0, 0.01, 32): 0.26086956521739135, (2000, 25, 5.0, 0.01, 64): 0.8260869565217391, (2000, 25, 5.0, 0.01, 128): 0.8241106719367589, (2000, 25, 8.0, 0.001, 32): 0.34782608695652173, (2000, 25, 8.0, 0.001, 64): 0.6086956521739131, (2000, 25, 8.0, 0.001, 128): 0.5612648221343873, (2000, 25, 8.0, 0.005, 32): 0.650197628458498, (2000, 25, 8.0, 0.005, 64): 0.6047430830039525, (2000, 25, 8.0, 0.005, 128): 0.642292490118577, (2000, 25, 8.0, 0.01, 32): 0.3893280632411068, (2000, 25, 8.0, 0.01, 64): 0.517786561264822, (2000, 25, 8.0, 0.01, 128): 0.6482213438735178, (2000, 25, 10.0, 0.001, 32): 0.30434782608695654, (2000, 25, 10.0, 0.001, 64): 0.6521739130434783, (2000, 25, 10.0, 0.001, 128): 0.5612648221343873, (2000, 25, 10.0, 0.005, 32): 0.6521739130434783, (2000, 25, 10.0, 0.005, 64): 0.517786561264822, (2000, 25, 10.0, 0.005, 128): 0.5098814229249012, (2000, 25, 10.0, 0.01, 32): 0.30434782608695654, (2000, 25, 10.0, 0.01, 64): 0.8241106719367589, (2000, 25, 10.0, 0.01, 128): 0.6383399209486166, (2000, 25, 12.0, 0.001, 32): 0.26086956521739135, (2000, 25, 12.0, 0.001, 64): 0.6521739130434783, (2000, 25, 12.0, 0.001, 128): 0.5612648221343873, (2000, 25, 12.0, 0.005, 32): 0.7806324110671937, (2000, 25, 12.0, 0.005, 64): 0.691699604743083, (2000, 25, 12.0, 0.005, 128): 0.6936758893280632, (2000, 25, 12.0, 0.01, 32): 0.6956521739130435, (2000, 25, 12.0, 0.01, 64): 0.7292490118577075, (2000, 25, 12.0, 0.01, 128): 0.733201581027668, (2000, 50, 5.0, 0.001, 32): 0.4347826086956522, (2000, 50, 5.0, 0.001, 64): 0.5217391304347826, (2000, 50, 5.0, 0.001, 128): 0.6521739130434783, (2000, 50, 5.0, 0.005, 32): 0.5652173913043479, (2000, 50, 5.0, 0.005, 64): 0.8201581027667985, (2000, 50, 5.0, 0.005, 128): 0.8656126482213439, (2000, 50, 5.0, 0.01, 32): 0.26086956521739135, (2000, 50, 5.0, 0.01, 64): 0.8675889328063242, (2000, 50, 5.0, 0.01, 128): 0.8241106719367589, (2000, 50, 8.0, 0.001, 32): 0.3913043478260869, (2000, 50, 8.0, 0.001, 64): 0.6956521739130435, (2000, 50, 8.0, 0.001, 128): 0.5612648221343873, (2000, 50, 8.0, 0.005, 32): 0.6086956521739131, (2000, 50, 8.0, 0.005, 64): 0.6047430830039525, (2000, 50, 8.0, 0.005, 128): 0.6007905138339922, (2000, 50, 8.0, 0.01, 32): 0.4782608695652174, (2000, 50, 8.0, 0.01, 64): 0.8675889328063242, (2000, 50, 8.0, 0.01, 128): 0.8656126482213439, (2000, 50, 10.0, 0.001, 32): 0.4347826086956522, (2000, 50, 10.0, 0.001, 64): 0.6521739130434783, (2000, 50, 10.0, 0.001, 128): 0.5612648221343873, (2000, 50, 10.0, 0.005, 32): 0.6521739130434783, (2000, 50, 10.0, 0.005, 64): 0.7351778656126482, (2000, 50, 10.0, 0.005, 128): 0.5118577075098814, (2000, 50, 10.0, 0.01, 32): 0.30434782608695654, (2000, 50, 10.0, 0.01, 64): 0.7786561264822134, (2000, 50, 10.0, 0.01, 128): 0.774703557312253, (2000, 50, 12.0, 0.001, 32): 0.5217391304347826, (2000, 50, 12.0, 0.001, 64): 0.6521739130434783, (2000, 50, 12.0, 0.001, 128): 0.5612648221343873, (2000, 50, 12.0, 0.005, 32): 0.782608695652174, (2000, 50, 12.0, 0.005, 64): 0.691699604743083, (2000, 50, 12.0, 0.005, 128): 0.7351778656126482, (2000, 50, 12.0, 0.01, 32): 0.8695652173913043, (2000, 50, 12.0, 0.01, 64): 0.8636363636363636, (2000, 50, 12.0, 0.01, 128): 0.6363636363636364, (2000, 75, 5.0, 0.001, 32): 0.4347826086956522, (2000, 75, 5.0, 0.001, 64): 0.5217391304347826, (2000, 75, 5.0, 0.001, 128): 0.4782608695652174, (2000, 75, 5.0, 0.005, 32): 0.5217391304347826, (2000, 75, 5.0, 0.005, 64): 0.9110671936758894, (2000, 75, 5.0, 0.005, 128): 0.8636363636363636, (2000, 75, 5.0, 0.01, 32): 0.08695652173913049, (2000, 75, 5.0, 0.01, 64): 0.6956521739130435, (2000, 75, 5.0, 0.01, 128): 0.8241106719367589, (2000, 75, 8.0, 0.001, 32): 0.5217391304347826, (2000, 75, 8.0, 0.001, 64): 0.6956521739130435, (2000, 75, 8.0, 0.001, 128): 0.5612648221343873, (2000, 75, 8.0, 0.005, 32): 0.5217391304347826, (2000, 75, 8.0, 0.005, 64): 0.7806324110671937, (2000, 75, 8.0, 0.005, 128): 0.6027667984189724, (2000, 75, 8.0, 0.01, 32): 0.21739130434782605, (2000, 75, 8.0, 0.01, 64): 0.7371541501976285, (2000, 75, 8.0, 0.01, 128): 0.7806324110671937, (2000, 75, 10.0, 0.001, 32): 0.4347826086956522, (2000, 75, 10.0, 0.001, 64): 0.6956521739130435, (2000, 75, 10.0, 0.001, 128): 0.5612648221343873, (2000, 75, 10.0, 0.005, 32): 0.6521739130434783, (2000, 75, 10.0, 0.005, 64): 0.7351778656126482, (2000, 75, 10.0, 0.005, 128): 0.733201581027668, (2000, 75, 10.0, 0.01, 32): 0.13043478260869568, (2000, 75, 10.0, 0.01, 64): 0.8675889328063242, (2000, 75, 10.0, 0.01, 128): 0.8636363636363636, (2000, 75, 12.0, 0.001, 32): 0.5217391304347826, (2000, 75, 12.0, 0.001, 64): 0.6521739130434783, (2000, 75, 12.0, 0.001, 128): 0.5612648221343873, (2000, 75, 12.0, 0.005, 32): 0.6936758893280632, (2000, 75, 12.0, 0.005, 64): 0.7371541501976285, (2000, 75, 12.0, 0.005, 128): 0.7786561264822134, (2000, 75, 12.0, 0.01, 32): 0.21541501976284594, (2000, 75, 12.0, 0.01, 64): 0.8675889328063242, (2000, 75, 12.0, 0.01, 128): 0.5909090909090909, (2000, 100, 5.0, 0.001, 32): 0.4782608695652174, (2000, 100, 5.0, 0.001, 64): 0.4782608695652174, (2000, 100, 5.0, 0.001, 128): 0.4782608695652174, (2000, 100, 5.0, 0.005, 32): 0.4782608695652174, (2000, 100, 5.0, 0.005, 64): 0.782608695652174, (2000, 100, 5.0, 0.005, 128): 0.9090909090909091, (2000, 100, 5.0, 0.01, 32): 0.13043478260869568, (2000, 100, 5.0, 0.01, 64): 0.3913043478260869, (2000, 100, 5.0, 0.01, 128): 0.8695652173913043, (2000, 100, 8.0, 0.001, 32): 0.5217391304347826, (2000, 100, 8.0, 0.001, 64): 0.6956521739130435, (2000, 100, 8.0, 0.001, 128): 0.5612648221343873, (2000, 100, 8.0, 0.005, 32): 0.4347826086956522, (2000, 100, 8.0, 0.005, 64): 0.7786561264822134, (2000, 100, 8.0, 0.005, 128): 0.8636363636363636, (2000, 100, 8.0, 0.01, 32): 0.5217391304347826, (2000, 100, 8.0, 0.01, 64): 0.7391304347826086, (2000, 100, 8.0, 0.01, 128): 0.7351778656126482, (2000, 100, 10.0, 0.001, 32): 0.5217391304347826, (2000, 100, 10.0, 0.001, 64): 0.6956521739130435, (2000, 100, 10.0, 0.001, 128): 0.5612648221343873, (2000, 100, 10.0, 0.005, 32): 0.8260869565217391, (2000, 100, 10.0, 0.005, 64): 0.7351778656126482, (2000, 100, 10.0, 0.005, 128): 0.5513833992094861, (2000, 100, 10.0, 0.01, 32): 0.21739130434782605, (2000, 100, 10.0, 0.01, 64): 0.8675889328063242, (2000, 100, 10.0, 0.01, 128): 0.8201581027667985, (2000, 100, 12.0, 0.001, 32): 0.5217391304347826, (2000, 100, 12.0, 0.001, 64): 0.7391304347826086, (2000, 100, 12.0, 0.001, 128): 0.5612648221343873, (2000, 100, 12.0, 0.005, 32): 0.6067193675889329, (2000, 100, 12.0, 0.005, 64): 0.7371541501976285, (2000, 100, 12.0, 0.005, 128): 0.7806324110671937, (2000, 100, 12.0, 0.01, 32): 0.0, (2000, 100, 12.0, 0.01, 64): 0.6936758893280632, (2000, 100, 12.0, 0.01, 128): 0.5909090909090909, (5000, 25, 5.0, 0.001, 32): 0.0, (5000, 25, 5.0, 0.001, 64): 0.22727272727272727, (5000, 25, 5.0, 0.001, 128): 0.6007905138339922, (5000, 25, 5.0, 0.005, 32): 0.8201581027667985, (5000, 25, 5.0, 0.005, 64): 0.691699604743083, (5000, 25, 5.0, 0.005, 128): 0.6818181818181818, (5000, 25, 5.0, 0.01, 32): 0.0, (5000, 25, 5.0, 0.01, 64): 0.6877470355731226, (5000, 25, 5.0, 0.01, 128): 0.7272727272727273, (5000, 25, 8.0, 0.001, 32): 0.0, (5000, 25, 8.0, 0.001, 64): 0.22727272727272727, (5000, 25, 8.0, 0.001, 128): 0.6007905138339922, (5000, 25, 8.0, 0.005, 32): 0.5909090909090909, (5000, 25, 8.0, 0.005, 64): 0.6897233201581028, (5000, 25, 8.0, 0.005, 128): 0.9090909090909091, (5000, 25, 8.0, 0.01, 32): 0.13043478260869568, (5000, 25, 8.0, 0.01, 64): 0.46837944664031617, (5000, 25, 8.0, 0.01, 128): 0.7272727272727273, (5000, 25, 10.0, 0.001, 32): 0.0, (5000, 25, 10.0, 0.001, 64): 0.22727272727272727, (5000, 25, 10.0, 0.001, 128): 0.6007905138339922, (5000, 25, 10.0, 0.005, 32): 0.9090909090909091, (5000, 25, 10.0, 0.005, 64): 0.8201581027667985, (5000, 25, 10.0, 0.005, 128): 0.8181818181818182, (5000, 25, 10.0, 0.01, 32): 0.21739130434782605, (5000, 25, 10.0, 0.01, 64): 0.33399209486166004, (5000, 25, 10.0, 0.01, 128): 0.774703557312253, (5000, 25, 12.0, 0.001, 32): 0.0, (5000, 25, 12.0, 0.001, 64): 0.22727272727272727, (5000, 25, 12.0, 0.001, 128): 0.6007905138339922, (5000, 25, 12.0, 0.005, 32): 0.8201581027667985, (5000, 25, 12.0, 0.005, 64): 0.7351778656126482, (5000, 25, 12.0, 0.005, 128): 0.7272727272727273, (5000, 25, 12.0, 0.01, 32): 0.08695652173913049, (5000, 25, 12.0, 0.01, 64): 0.5988142292490118, (5000, 25, 12.0, 0.01, 128): 0.774703557312253, (5000, 50, 5.0, 0.001, 32): 0.0, (5000, 50, 5.0, 0.001, 64): 0.22727272727272727, (5000, 50, 5.0, 0.001, 128): 0.6007905138339922, (5000, 50, 5.0, 0.005, 32): 0.7786561264822134, (5000, 50, 5.0, 0.005, 64): 0.7371541501976285, (5000, 50, 5.0, 0.005, 128): 0.45454545454545453, (5000, 50, 5.0, 0.01, 32): 0.0, (5000, 50, 5.0, 0.01, 64): 0.6877470355731226, (5000, 50, 5.0, 0.01, 128): 0.6403162055335969, (5000, 50, 8.0, 0.001, 32): 0.0, (5000, 50, 8.0, 0.001, 64): 0.22727272727272727, (5000, 50, 8.0, 0.001, 128): 0.6007905138339922, (5000, 50, 8.0, 0.005, 32): 0.5909090909090909, (5000, 50, 8.0, 0.005, 64): 0.6897233201581028, (5000, 50, 8.0, 0.005, 128): 0.8636363636363636, (5000, 50, 8.0, 0.01, 32): 0.13043478260869568, (5000, 50, 8.0, 0.01, 64): 0.46837944664031617, (5000, 50, 8.0, 0.01, 128): 0.6857707509881423, (5000, 50, 10.0, 0.001, 32): 0.0, (5000, 50, 10.0, 0.001, 64): 0.22727272727272727, (5000, 50, 10.0, 0.001, 128): 0.6007905138339922, (5000, 50, 10.0, 0.005, 32): 0.8636363636363636, (5000, 50, 10.0, 0.005, 64): 0.9110671936758894, (5000, 50, 10.0, 0.005, 128): 0.8181818181818182, (5000, 50, 10.0, 0.01, 32): 0.26086956521739135, (5000, 50, 10.0, 0.01, 64): 0.37944664031620556, (5000, 50, 10.0, 0.01, 128): 0.5948616600790513, (5000, 50, 12.0, 0.001, 32): 0.0, (5000, 50, 12.0, 0.001, 64): 0.22727272727272727, (5000, 50, 12.0, 0.001, 128): 0.6007905138339922, (5000, 50, 12.0, 0.005, 32): 0.8656126482213439, (5000, 50, 12.0, 0.005, 64): 0.7351778656126482, (5000, 50, 12.0, 0.005, 128): 0.45454545454545453, (5000, 50, 12.0, 0.01, 32): 0.041501976284585074, (5000, 50, 12.0, 0.01, 64): 0.6877470355731226, (5000, 50, 12.0, 0.01, 128): 0.3221343873517787, (5000, 75, 5.0, 0.001, 32): 0.0, (5000, 75, 5.0, 0.001, 64): 0.22727272727272727, (5000, 75, 5.0, 0.001, 128): 0.6007905138339922, (5000, 75, 5.0, 0.005, 32): 0.6877470355731226, (5000, 75, 5.0, 0.005, 64): 0.6936758893280632, (5000, 75, 5.0, 0.005, 128): 0.45454545454545453, (5000, 75, 5.0, 0.01, 32): 0.08695652173913049, (5000, 75, 5.0, 0.01, 64): 0.8241106719367589, (5000, 75, 5.0, 0.01, 128): 0.9090909090909091, (5000, 75, 8.0, 0.001, 32): 0.0, (5000, 75, 8.0, 0.001, 64): 0.22727272727272727, (5000, 75, 8.0, 0.001, 128): 0.6007905138339922, (5000, 75, 8.0, 0.005, 32): 0.774703557312253, (5000, 75, 8.0, 0.005, 64): 0.7371541501976285, (5000, 75, 8.0, 0.005, 128): 0.8181818181818182, (5000, 75, 8.0, 0.01, 32): 0.13043478260869568, (5000, 75, 8.0, 0.01, 64): 0.5632411067193677, (5000, 75, 8.0, 0.01, 128): 0.7272727272727273, (5000, 75, 10.0, 0.001, 32): 0.0, (5000, 75, 10.0, 0.001, 64): 0.22727272727272727, (5000, 75, 10.0, 0.001, 128): 0.6007905138339922, (5000, 75, 10.0, 0.005, 32): 0.5909090909090909, (5000, 75, 10.0, 0.005, 64): 0.8656126482213439, (5000, 75, 10.0, 0.005, 128): 0.8181818181818182, (5000, 75, 10.0, 0.01, 32): 0.04347826086956519, (5000, 75, 10.0, 0.01, 64): 0.4189723320158103, (5000, 75, 10.0, 0.01, 128): 0.8636363636363636, (5000, 75, 12.0, 0.001, 32): 0.0, (5000, 75, 12.0, 0.001, 64): 0.22727272727272727, (5000, 75, 12.0, 0.001, 128): 0.6007905138339922, (5000, 75, 12.0, 0.005, 32): 0.8656126482213439, (5000, 75, 12.0, 0.005, 64): 0.6482213438735178, (5000, 75, 12.0, 0.005, 128): 0.6363636363636364, (5000, 75, 12.0, 0.01, 32): 0.08695652173913049, (5000, 75, 12.0, 0.01, 64): 0.6857707509881423, (5000, 75, 12.0, 0.01, 128): 0.36363636363636365, (5000, 100, 5.0, 0.001, 32): 0.0, (5000, 100, 5.0, 0.001, 64): 0.22727272727272727, (5000, 100, 5.0, 0.001, 128): 0.6007905138339922, (5000, 100, 5.0, 0.005, 32): 0.6442687747035574, (5000, 100, 5.0, 0.005, 64): 0.782608695652174, (5000, 100, 5.0, 0.005, 128): 0.045454545454545456, (5000, 100, 5.0, 0.01, 32): 0.04347826086956519, (5000, 100, 5.0, 0.01, 64): 0.7806324110671937, (5000, 100, 5.0, 0.01, 128): 0.7272727272727273, (5000, 100, 8.0, 0.001, 32): 0.0, (5000, 100, 8.0, 0.001, 64): 0.22727272727272727, (5000, 100, 8.0, 0.001, 128): 0.6007905138339922, (5000, 100, 8.0, 0.005, 32): 0.7272727272727273, (5000, 100, 8.0, 0.005, 64): 0.6897233201581028, (5000, 100, 8.0, 0.005, 128): 0.6818181818181818, (5000, 100, 8.0, 0.01, 32): 0.21739130434782605, (5000, 100, 8.0, 0.01, 64): 0.7806324110671937, (5000, 100, 8.0, 0.01, 128): 0.4565217391304348, (5000, 100, 10.0, 0.001, 32): 0.0, (5000, 100, 10.0, 0.001, 64): 0.22727272727272727, (5000, 100, 10.0, 0.001, 128): 0.6007905138339922, (5000, 100, 10.0, 0.005, 32): 0.5474308300395258, (5000, 100, 10.0, 0.005, 64): 0.8201581027667985, (5000, 100, 10.0, 0.005, 128): 0.6818181818181818, (5000, 100, 10.0, 0.01, 32): 0.08695652173913049, (5000, 100, 10.0, 0.01, 64): 0.650197628458498, (5000, 100, 10.0, 0.01, 128): 0.4110671936758893, (5000, 100, 12.0, 0.001, 32): 0.0, (5000, 100, 12.0, 0.001, 64): 0.22727272727272727, (5000, 100, 12.0, 0.001, 128): 0.6007905138339922, (5000, 100, 12.0, 0.005, 32): 0.8221343873517786, (5000, 100, 12.0, 0.005, 64): 0.7786561264822134, (5000, 100, 12.0, 0.005, 128): 0.4090909090909091, (5000, 100, 12.0, 0.01, 32): 0.04347826086956519, (5000, 100, 12.0, 0.01, 64): 0.7351778656126482, (5000, 100, 12.0, 0.01, 128): 0.5454545454545454, (10000, 25, 5.0, 0.001, 32): 0.0, (10000, 25, 5.0, 0.001, 64): 0.0, (10000, 25, 5.0, 0.001, 128): 0.6403162055335969, (10000, 25, 5.0, 0.005, 32): 0.43083003952569165, (10000, 25, 5.0, 0.005, 64): 0.8241106719367589, (10000, 25, 5.0, 0.005, 128): 0.8260869565217391, (10000, 25, 5.0, 0.01, 32): 0.04347826086956519, (10000, 25, 5.0, 0.01, 64): 0.21739130434782605, (10000, 25, 5.0, 0.01, 128): 0.26086956521739135, (10000, 25, 8.0, 0.001, 32): 0.0, (10000, 25, 8.0, 0.001, 64): 0.0, (10000, 25, 8.0, 0.001, 128): 0.6403162055335969, (10000, 25, 8.0, 0.005, 32): 0.8656126482213439, (10000, 25, 8.0, 0.005, 64): 0.8241106719367589, (10000, 25, 8.0, 0.005, 128): 0.8675889328063242, (10000, 25, 8.0, 0.01, 32): 0.0, (10000, 25, 8.0, 0.01, 64): 0.13043478260869568, (10000, 25, 8.0, 0.01, 128): 0.4347826086956522, (10000, 25, 10.0, 0.001, 32): 0.0, (10000, 25, 10.0, 0.001, 64): 0.0, (10000, 25, 10.0, 0.001, 128): 0.6403162055335969, (10000, 25, 10.0, 0.005, 32): 0.9130434782608696, (10000, 25, 10.0, 0.005, 64): 0.7786561264822134, (10000, 25, 10.0, 0.005, 128): 0.8675889328063242, (10000, 25, 10.0, 0.01, 32): 0.0, (10000, 25, 10.0, 0.01, 64): 0.26086956521739135, (10000, 25, 10.0, 0.01, 128): 0.5217391304347826, (10000, 25, 12.0, 0.001, 32): 0.0, (10000, 25, 12.0, 0.001, 64): 0.0, (10000, 25, 12.0, 0.001, 128): 0.6403162055335969, (10000, 25, 12.0, 0.005, 32): 0.5197628458498025, (10000, 25, 12.0, 0.005, 64): 0.8221343873517786, (10000, 25, 12.0, 0.005, 128): 0.8695652173913043, (10000, 25, 12.0, 0.01, 32): 0.0, (10000, 25, 12.0, 0.01, 64): 0.30434782608695654, (10000, 25, 12.0, 0.01, 128): 0.4347826086956522, (10000, 50, 5.0, 0.001, 32): 0.0, (10000, 50, 5.0, 0.001, 64): 0.0, (10000, 50, 5.0, 0.001, 128): 0.6403162055335969, (10000, 50, 5.0, 0.005, 32): 0.38735177865612647, (10000, 50, 5.0, 0.005, 64): 0.9110671936758894, (10000, 50, 5.0, 0.005, 128): 0.9130434782608696, (10000, 50, 5.0, 0.01, 32): 0.0, (10000, 50, 5.0, 0.01, 64): 0.30434782608695654, (10000, 50, 5.0, 0.01, 128): 0.17391304347826086, (10000, 50, 8.0, 0.001, 32): 0.0, (10000, 50, 8.0, 0.001, 64): 0.0, (10000, 50, 8.0, 0.001, 128): 0.6403162055335969, (10000, 50, 8.0, 0.005, 32): 0.650197628458498, (10000, 50, 8.0, 0.005, 64): 0.8695652173913043, (10000, 50, 8.0, 0.005, 128): 0.9130434782608696, (10000, 50, 8.0, 0.01, 32): 0.0, (10000, 50, 8.0, 0.01, 64): 0.17391304347826086, (10000, 50, 8.0, 0.01, 128): 0.4782608695652174, (10000, 50, 10.0, 0.001, 32): 0.0, (10000, 50, 10.0, 0.001, 64): 0.0, (10000, 50, 10.0, 0.001, 128): 0.6403162055335969, (10000, 50, 10.0, 0.005, 32): 0.9130434782608696, (10000, 50, 10.0, 0.005, 64): 0.9130434782608696, (10000, 50, 10.0, 0.005, 128): 0.8675889328063242, (10000, 50, 10.0, 0.01, 32): 0.0, (10000, 50, 10.0, 0.01, 64): 0.30434782608695654, (10000, 50, 10.0, 0.01, 128): 0.4347826086956522, (10000, 50, 12.0, 0.001, 32): 0.0, (10000, 50, 12.0, 0.001, 64): 0.0, (10000, 50, 12.0, 0.001, 128): 0.6403162055335969, (10000, 50, 12.0, 0.005, 32): 0.43083003952569165, (10000, 50, 12.0, 0.005, 64): 0.8675889328063242, (10000, 50, 12.0, 0.005, 128): 0.8695652173913043, (10000, 50, 12.0, 0.01, 32): 0.0, (10000, 50, 12.0, 0.01, 64): 0.4347826086956522, (10000, 50, 12.0, 0.01, 128): 0.5652173913043479, (10000, 75, 5.0, 0.001, 32): 0.0, (10000, 75, 5.0, 0.001, 64): 0.0, (10000, 75, 5.0, 0.001, 128): 0.6403162055335969, (10000, 75, 5.0, 0.005, 32): 0.4762845849802372, (10000, 75, 5.0, 0.005, 64): 0.8675889328063242, (10000, 75, 5.0, 0.005, 128): 0.9130434782608696, (10000, 75, 5.0, 0.01, 32): 0.04347826086956519, (10000, 75, 5.0, 0.01, 64): 0.30434782608695654, (10000, 75, 5.0, 0.01, 128): 0.17391304347826086, (10000, 75, 8.0, 0.001, 32): 0.0, (10000, 75, 8.0, 0.001, 64): 0.0, (10000, 75, 8.0, 0.001, 128): 0.6403162055335969, (10000, 75, 8.0, 0.005, 32): 0.6936758893280632, (10000, 75, 8.0, 0.005, 64): 0.8695652173913043, (10000, 75, 8.0, 0.005, 128): 0.9130434782608696, (10000, 75, 8.0, 0.01, 32): 0.0, (10000, 75, 8.0, 0.01, 64): 0.21739130434782605, (10000, 75, 8.0, 0.01, 128): 0.4347826086956522, (10000, 75, 10.0, 0.001, 32): 0.0, (10000, 75, 10.0, 0.001, 64): 0.0, (10000, 75, 10.0, 0.001, 128): 0.6403162055335969, (10000, 75, 10.0, 0.005, 32): 0.9130434782608696, (10000, 75, 10.0, 0.005, 64): 0.9565217391304348, (10000, 75, 10.0, 0.005, 128): 0.8675889328063242, (10000, 75, 10.0, 0.01, 32): 0.0, (10000, 75, 10.0, 0.01, 64): 0.34782608695652173, (10000, 75, 10.0, 0.01, 128): 0.4347826086956522, (10000, 75, 12.0, 0.001, 32): 0.0, (10000, 75, 12.0, 0.001, 64): 0.0, (10000, 75, 12.0, 0.001, 128): 0.6403162055335969, (10000, 75, 12.0, 0.005, 32): 0.5652173913043479, (10000, 75, 12.0, 0.005, 64): 0.9110671936758894, (10000, 75, 12.0, 0.005, 128): 0.8695652173913043, (10000, 75, 12.0, 0.01, 32): 0.0, (10000, 75, 12.0, 0.01, 64): 0.3913043478260869, (10000, 75, 12.0, 0.01, 128): 0.5652173913043479, (10000, 100, 5.0, 0.001, 32): 0.0, (10000, 100, 5.0, 0.001, 64): 0.0, (10000, 100, 5.0, 0.001, 128): 0.6403162055335969, (10000, 100, 5.0, 0.005, 32): 0.6936758893280632, (10000, 100, 5.0, 0.005, 64): 0.8675889328063242, (10000, 100, 5.0, 0.005, 128): 0.9130434782608696, (10000, 100, 5.0, 0.01, 32): 0.0, (10000, 100, 5.0, 0.01, 64): 0.34782608695652173, (10000, 100, 5.0, 0.01, 128): 0.17391304347826086, (10000, 100, 8.0, 0.001, 32): 0.0, (10000, 100, 8.0, 0.001, 64): 0.0, (10000, 100, 8.0, 0.001, 128): 0.6403162055335969, (10000, 100, 8.0, 0.005, 32): 0.6521739130434783, (10000, 100, 8.0, 0.005, 64): 0.8695652173913043, (10000, 100, 8.0, 0.005, 128): 0.9130434782608696, (10000, 100, 8.0, 0.01, 32): 0.0, (10000, 100, 8.0, 0.01, 64): 0.13043478260869568, (10000, 100, 8.0, 0.01, 128): 0.26086956521739135, (10000, 100, 10.0, 0.001, 32): 0.0, (10000, 100, 10.0, 0.001, 64): 0.0, (10000, 100, 10.0, 0.001, 128): 0.6403162055335969, (10000, 100, 10.0, 0.005, 32): 0.6956521739130435, (10000, 100, 10.0, 0.005, 64): 0.9565217391304348, (10000, 100, 10.0, 0.005, 128): 0.8675889328063242, (10000, 100, 10.0, 0.01, 32): 0.0, (10000, 100, 10.0, 0.01, 64): 0.34782608695652173, (10000, 100, 10.0, 0.01, 128): 0.4347826086956522, (10000, 100, 12.0, 0.001, 32): 0.0, (10000, 100, 12.0, 0.001, 64): 0.0, (10000, 100, 12.0, 0.001, 128): 0.6403162055335969, (10000, 100, 12.0, 0.005, 32): 0.6521739130434783, (10000, 100, 12.0, 0.005, 64): 0.9130434782608696, (10000, 100, 12.0, 0.005, 128): 0.8260869565217391, (10000, 100, 12.0, 0.01, 32): 0.0, (10000, 100, 12.0, 0.01, 64): 0.21739130434782605, (10000, 100, 12.0, 0.01, 128): 0.5217391304347826}
