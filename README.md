@@ -10,6 +10,8 @@ We included reference for the data used in the main paper. All data but the Vanc
 
 The `data_generator` folder contains the code for generating the synthetic datasets used in the experiments, as well as the input file for generating the synthetic datasets with the desired structure (3 pure subgroups of varying number of selectors and samples).
 
+The `Hyperparameter selection.pdf` file contains the hyperparameter grid and the final results for the hyperparameter selection process.
+
 The `main.py` and `main_sdiga.py` files include code for running BSD and SDIGA and importing the data for both experiments.
 
 A `requierements.txt` file is included with the used libraries and their versions. We recommend using a virtual environment to install the dependencies.
